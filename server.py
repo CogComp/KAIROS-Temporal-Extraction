@@ -27,9 +27,12 @@ class CogCompTimeDemoService:
     def info():
         return {"status":"online"}
 
-    @staticmethod
-    def halt():
-        exit(0)
+    def halt(self):
+        # exit(0)
+        # self.app.shutdown()
+        func = request.environ.get('werkzeug.server.shutdown')
+        func()
+        return {"status":"restarting"}
 
     @staticmethod
     def handle_index():
