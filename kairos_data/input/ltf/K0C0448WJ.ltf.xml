@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="K0C0448WJ" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="3509" raw_text_md5="9c36db0b0639f5f28004eb04671c8459">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="65">
+<ORIGINAL_TEXT>Venezuela crisis: Maduro to raise fuel prices to combat smuggling</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="9">Venezuela</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="11" end_char="16">crisis</TOKEN>
+<TOKEN id="token-0-2" pos="punct" morph="none" start_char="17" end_char="17">:</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="19" end_char="24">Maduro</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="26" end_char="27">to</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="29" end_char="33">raise</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="35" end_char="38">fuel</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="40" end_char="45">prices</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="47" end_char="48">to</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="50" end_char="55">combat</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="57" end_char="65">smuggling</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="70" end_char="276">
+<ORIGINAL_TEXT>Venezuela’s heavily subsidised domestic fuel prices should rise to international levels to avoid billions of dollars in annual losses as a result of smuggling, Nicolás Maduro has said in a televised address.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="70" end_char="80">Venezuela’s</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="82" end_char="88">heavily</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="90" end_char="99">subsidised</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="101" end_char="108">domestic</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="110" end_char="113">fuel</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="115" end_char="120">prices</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="122" end_char="127">should</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="129" end_char="132">rise</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="134" end_char="135">to</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="137" end_char="149">international</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="151" end_char="156">levels</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="158" end_char="159">to</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="161" end_char="165">avoid</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="167" end_char="174">billions</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="176" end_char="177">of</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="179" end_char="185">dollars</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="187" end_char="188">in</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="190" end_char="195">annual</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="197" end_char="202">losses</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="204" end_char="205">as</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="207" end_char="207">a</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="209" end_char="214">result</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="216" end_char="217">of</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="219" end_char="227">smuggling</TOKEN>
+<TOKEN id="token-1-24" pos="punct" morph="none" start_char="228" end_char="228">,</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="230" end_char="236">Nicolás</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="238" end_char="243">Maduro</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="245" end_char="247">has</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="249" end_char="252">said</TOKEN>
+<TOKEN id="token-1-29" pos="word" morph="none" start_char="254" end_char="255">in</TOKEN>
+<TOKEN id="token-1-30" pos="word" morph="none" start_char="257" end_char="257">a</TOKEN>
+<TOKEN id="token-1-31" pos="word" morph="none" start_char="259" end_char="267">televised</TOKEN>
+<TOKEN id="token-1-32" pos="word" morph="none" start_char="269" end_char="275">address</TOKEN>
+<TOKEN id="token-1-33" pos="punct" morph="none" start_char="276" end_char="276">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="279" end_char="396">
+<ORIGINAL_TEXT>"Gasoline must be sold at an international price to stop smuggling to Colombia and the Caribbean," the president said.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="punct" morph="none" start_char="279" end_char="279">"</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="280" end_char="287">Gasoline</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="289" end_char="292">must</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="294" end_char="295">be</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="297" end_char="300">sold</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="302" end_char="303">at</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="305" end_char="306">an</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="308" end_char="320">international</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="322" end_char="326">price</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="328" end_char="329">to</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="331" end_char="334">stop</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="336" end_char="344">smuggling</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="346" end_char="347">to</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="349" end_char="356">Colombia</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="358" end_char="360">and</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="362" end_char="364">the</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="366" end_char="374">Caribbean</TOKEN>
+<TOKEN id="token-2-17" pos="punct" morph="none" start_char="375" end_char="376">,"</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="378" end_char="380">the</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="382" end_char="390">president</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="392" end_char="395">said</TOKEN>
+<TOKEN id="token-2-21" pos="punct" morph="none" start_char="396" end_char="396">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="399" end_char="501">
+<ORIGINAL_TEXT>Like most oil-producing countries, Venezuela has for decades subsidised fuel as a benefit to consumers.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="399" end_char="402">Like</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="404" end_char="407">most</TOKEN>
+<TOKEN id="token-3-2" pos="unknown" morph="none" start_char="409" end_char="421">oil-producing</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="423" end_char="431">countries</TOKEN>
+<TOKEN id="token-3-4" pos="punct" morph="none" start_char="432" end_char="432">,</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="434" end_char="442">Venezuela</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="444" end_char="446">has</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="448" end_char="450">for</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="452" end_char="458">decades</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="460" end_char="469">subsidised</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="471" end_char="474">fuel</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="476" end_char="477">as</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="479" end_char="479">a</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="481" end_char="487">benefit</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="489" end_char="490">to</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="492" end_char="500">consumers</TOKEN>
+<TOKEN id="token-3-16" pos="punct" morph="none" start_char="501" end_char="501">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="503" end_char="673">
+<ORIGINAL_TEXT>But its fuel prices have remained nearly flat for years despite hyperinflation that the International Monetary Fund has projected would reach 1 million per cent this year.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="503" end_char="505">But</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="507" end_char="509">its</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="511" end_char="514">fuel</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="516" end_char="521">prices</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="523" end_char="526">have</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="528" end_char="535">remained</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="537" end_char="542">nearly</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="544" end_char="547">flat</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="549" end_char="551">for</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="553" end_char="557">years</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="559" end_char="565">despite</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="567" end_char="580">hyperinflation</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="582" end_char="585">that</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="587" end_char="589">the</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="591" end_char="603">International</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="605" end_char="612">Monetary</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="614" end_char="617">Fund</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="619" end_char="621">has</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="623" end_char="631">projected</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="633" end_char="637">would</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="639" end_char="643">reach</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="645" end_char="645">1</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="647" end_char="653">million</TOKEN>
+<TOKEN id="token-4-23" pos="word" morph="none" start_char="655" end_char="657">per</TOKEN>
+<TOKEN id="token-4-24" pos="word" morph="none" start_char="659" end_char="662">cent</TOKEN>
+<TOKEN id="token-4-25" pos="word" morph="none" start_char="664" end_char="667">this</TOKEN>
+<TOKEN id="token-4-26" pos="word" morph="none" start_char="669" end_char="672">year</TOKEN>
+<TOKEN id="token-4-27" pos="punct" morph="none" start_char="673" end_char="673">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="676" end_char="786">
+<ORIGINAL_TEXT>That means that for the price of a cup of coffee, a driver can fill the tank of a small SUV nearly 9,000 times.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="676" end_char="679">That</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="681" end_char="685">means</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="687" end_char="690">that</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="692" end_char="694">for</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="696" end_char="698">the</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="700" end_char="704">price</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="706" end_char="707">of</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="709" end_char="709">a</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="711" end_char="713">cup</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="715" end_char="716">of</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="718" end_char="723">coffee</TOKEN>
+<TOKEN id="token-5-11" pos="punct" morph="none" start_char="724" end_char="724">,</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="726" end_char="726">a</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="728" end_char="733">driver</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="735" end_char="737">can</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="739" end_char="742">fill</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="744" end_char="746">the</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="748" end_char="751">tank</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="753" end_char="754">of</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="756" end_char="756">a</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="758" end_char="762">small</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="764" end_char="766">SUV</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="768" end_char="773">nearly</TOKEN>
+<TOKEN id="token-5-23" pos="unknown" morph="none" start_char="775" end_char="779">9,000</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="781" end_char="785">times</TOKEN>
+<TOKEN id="token-5-25" pos="punct" morph="none" start_char="786" end_char="786">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="788" end_char="900">
+<ORIGINAL_TEXT>Recently, the average price of a coffee with milk was 2.2m bolivars, or about 50 cents, local media has reported.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="788" end_char="795">Recently</TOKEN>
+<TOKEN id="token-6-1" pos="punct" morph="none" start_char="796" end_char="796">,</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="798" end_char="800">the</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="802" end_char="808">average</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="810" end_char="814">price</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="816" end_char="817">of</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="819" end_char="819">a</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="821" end_char="826">coffee</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="828" end_char="831">with</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="833" end_char="836">milk</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="838" end_char="840">was</TOKEN>
+<TOKEN id="token-6-11" pos="unknown" morph="none" start_char="842" end_char="845">2.2m</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="847" end_char="854">bolivars</TOKEN>
+<TOKEN id="token-6-13" pos="punct" morph="none" start_char="855" end_char="855">,</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="857" end_char="858">or</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="860" end_char="864">about</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="866" end_char="867">50</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="869" end_char="873">cents</TOKEN>
+<TOKEN id="token-6-18" pos="punct" morph="none" start_char="874" end_char="874">,</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="876" end_char="880">local</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="882" end_char="886">media</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="888" end_char="890">has</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="892" end_char="899">reported</TOKEN>
+<TOKEN id="token-6-23" pos="punct" morph="none" start_char="900" end_char="900">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="903" end_char="971">
+<ORIGINAL_TEXT>Smugglers do brisk business reselling fuel in neighbouring countries.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="903" end_char="911">Smugglers</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="913" end_char="914">do</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="916" end_char="920">brisk</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="922" end_char="929">business</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="931" end_char="939">reselling</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="941" end_char="944">fuel</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="946" end_char="947">in</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="949" end_char="960">neighbouring</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="962" end_char="970">countries</TOKEN>
+<TOKEN id="token-7-9" pos="punct" morph="none" start_char="971" end_char="971">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="974" end_char="984">
+<ORIGINAL_TEXT>Quick guide</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="974" end_char="978">Quick</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="980" end_char="984">guide</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="987" end_char="1013">
+<ORIGINAL_TEXT>Why is Venezuela in crisis?</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="987" end_char="989">Why</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="991" end_char="992">is</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="994" end_char="1002">Venezuela</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1004" end_char="1005">in</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1007" end_char="1012">crisis</TOKEN>
+<TOKEN id="token-9-5" pos="punct" morph="none" start_char="1013" end_char="1013">?</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1016" end_char="1242">
+<ORIGINAL_TEXT>Show Hide Under the late Hugo Chávez, who ushered in Venezuela’s socialist revolution in 1999, a new constitution and numerous elections placed nearly all government institutions under the control of the ruling Socialist party.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1016" end_char="1019">Show</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1021" end_char="1024">Hide</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1026" end_char="1030">Under</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1032" end_char="1034">the</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1036" end_char="1039">late</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1041" end_char="1044">Hugo</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1046" end_char="1051">Chávez</TOKEN>
+<TOKEN id="token-10-7" pos="punct" morph="none" start_char="1052" end_char="1052">,</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1054" end_char="1056">who</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1058" end_char="1064">ushered</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1066" end_char="1067">in</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1069" end_char="1079">Venezuela’s</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1081" end_char="1089">socialist</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1091" end_char="1100">revolution</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1102" end_char="1103">in</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1105" end_char="1108">1999</TOKEN>
+<TOKEN id="token-10-16" pos="punct" morph="none" start_char="1109" end_char="1109">,</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1111" end_char="1111">a</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="1113" end_char="1115">new</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1117" end_char="1128">constitution</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="1130" end_char="1132">and</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1134" end_char="1141">numerous</TOKEN>
+<TOKEN id="token-10-22" pos="word" morph="none" start_char="1143" end_char="1151">elections</TOKEN>
+<TOKEN id="token-10-23" pos="word" morph="none" start_char="1153" end_char="1158">placed</TOKEN>
+<TOKEN id="token-10-24" pos="word" morph="none" start_char="1160" end_char="1165">nearly</TOKEN>
+<TOKEN id="token-10-25" pos="word" morph="none" start_char="1167" end_char="1169">all</TOKEN>
+<TOKEN id="token-10-26" pos="word" morph="none" start_char="1171" end_char="1180">government</TOKEN>
+<TOKEN id="token-10-27" pos="word" morph="none" start_char="1182" end_char="1193">institutions</TOKEN>
+<TOKEN id="token-10-28" pos="word" morph="none" start_char="1195" end_char="1199">under</TOKEN>
+<TOKEN id="token-10-29" pos="word" morph="none" start_char="1201" end_char="1203">the</TOKEN>
+<TOKEN id="token-10-30" pos="word" morph="none" start_char="1205" end_char="1211">control</TOKEN>
+<TOKEN id="token-10-31" pos="word" morph="none" start_char="1213" end_char="1214">of</TOKEN>
+<TOKEN id="token-10-32" pos="word" morph="none" start_char="1216" end_char="1218">the</TOKEN>
+<TOKEN id="token-10-33" pos="word" morph="none" start_char="1220" end_char="1225">ruling</TOKEN>
+<TOKEN id="token-10-34" pos="word" morph="none" start_char="1227" end_char="1235">Socialist</TOKEN>
+<TOKEN id="token-10-35" pos="word" morph="none" start_char="1237" end_char="1241">party</TOKEN>
+<TOKEN id="token-10-36" pos="punct" morph="none" start_char="1242" end_char="1242">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1244" end_char="1368">
+<ORIGINAL_TEXT>This concentration of power was aided by a feuding opposition which carried out ineffectual campaigns and electoral boycotts.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1244" end_char="1247">This</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1249" end_char="1261">concentration</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1263" end_char="1264">of</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1266" end_char="1270">power</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1272" end_char="1274">was</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1276" end_char="1280">aided</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1282" end_char="1283">by</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1285" end_char="1285">a</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1287" end_char="1293">feuding</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1295" end_char="1304">opposition</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1306" end_char="1310">which</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1312" end_char="1318">carried</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1320" end_char="1322">out</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1324" end_char="1334">ineffectual</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1336" end_char="1344">campaigns</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1346" end_char="1348">and</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1350" end_char="1358">electoral</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1360" end_char="1367">boycotts</TOKEN>
+<TOKEN id="token-11-18" pos="punct" morph="none" start_char="1368" end_char="1368">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1370" end_char="1478">
+<ORIGINAL_TEXT>After Chávez died of cancer in 2013, he was succeeded by Nicolás Maduro who is even less tolerant of dissent.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1370" end_char="1374">After</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1376" end_char="1381">Chávez</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1383" end_char="1386">died</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1388" end_char="1389">of</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1391" end_char="1396">cancer</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1398" end_char="1399">in</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1401" end_char="1404">2013</TOKEN>
+<TOKEN id="token-12-7" pos="punct" morph="none" start_char="1405" end_char="1405">,</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1407" end_char="1408">he</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1410" end_char="1412">was</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1414" end_char="1422">succeeded</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1424" end_char="1425">by</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1427" end_char="1433">Nicolás</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1435" end_char="1440">Maduro</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1442" end_char="1444">who</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1446" end_char="1447">is</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1449" end_char="1452">even</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="1454" end_char="1457">less</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="1459" end_char="1466">tolerant</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="1468" end_char="1469">of</TOKEN>
+<TOKEN id="token-12-20" pos="word" morph="none" start_char="1471" end_char="1477">dissent</TOKEN>
+<TOKEN id="token-12-21" pos="punct" morph="none" start_char="1478" end_char="1478">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1480" end_char="1574">
+<ORIGINAL_TEXT>Growing political authoritarianism has coincided with greater state dominance over the economy.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1480" end_char="1486">Growing</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1488" end_char="1496">political</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1498" end_char="1513">authoritarianism</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1515" end_char="1517">has</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1519" end_char="1527">coincided</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1529" end_char="1532">with</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1534" end_char="1540">greater</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1542" end_char="1546">state</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1548" end_char="1556">dominance</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1558" end_char="1561">over</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1563" end_char="1565">the</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1567" end_char="1573">economy</TOKEN>
+<TOKEN id="token-13-12" pos="punct" morph="none" start_char="1574" end_char="1574">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1576" end_char="1696">
+<ORIGINAL_TEXT>But expropriations, price controls and mismanagement have led to a 40% contraction of the economy in the past five years.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1576" end_char="1578">But</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1580" end_char="1593">expropriations</TOKEN>
+<TOKEN id="token-14-2" pos="punct" morph="none" start_char="1594" end_char="1594">,</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1596" end_char="1600">price</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1602" end_char="1609">controls</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1611" end_char="1613">and</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1615" end_char="1627">mismanagement</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1629" end_char="1632">have</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1634" end_char="1636">led</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1638" end_char="1639">to</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1641" end_char="1641">a</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1643" end_char="1644">40</TOKEN>
+<TOKEN id="token-14-12" pos="punct" morph="none" start_char="1645" end_char="1645">%</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1647" end_char="1657">contraction</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1659" end_char="1660">of</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1662" end_char="1664">the</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="1666" end_char="1672">economy</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="1674" end_char="1675">in</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="1677" end_char="1679">the</TOKEN>
+<TOKEN id="token-14-19" pos="word" morph="none" start_char="1681" end_char="1684">past</TOKEN>
+<TOKEN id="token-14-20" pos="word" morph="none" start_char="1686" end_char="1689">five</TOKEN>
+<TOKEN id="token-14-21" pos="word" morph="none" start_char="1691" end_char="1695">years</TOKEN>
+<TOKEN id="token-14-22" pos="punct" morph="none" start_char="1696" end_char="1696">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1698" end_char="1839">
+<ORIGINAL_TEXT>Oil accounts for 96% of Venezuela’s export income but many foreign companies have been driven out and production has dropped to a 30-year low.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1698" end_char="1700">Oil</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1702" end_char="1709">accounts</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1711" end_char="1713">for</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1715" end_char="1716">96</TOKEN>
+<TOKEN id="token-15-4" pos="punct" morph="none" start_char="1717" end_char="1717">%</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1719" end_char="1720">of</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1722" end_char="1732">Venezuela’s</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1734" end_char="1739">export</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1741" end_char="1746">income</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1748" end_char="1750">but</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="1752" end_char="1755">many</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1757" end_char="1763">foreign</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1765" end_char="1773">companies</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="1775" end_char="1778">have</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="1780" end_char="1783">been</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="1785" end_char="1790">driven</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="1792" end_char="1794">out</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="1796" end_char="1798">and</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="1800" end_char="1809">production</TOKEN>
+<TOKEN id="token-15-19" pos="word" morph="none" start_char="1811" end_char="1813">has</TOKEN>
+<TOKEN id="token-15-20" pos="word" morph="none" start_char="1815" end_char="1821">dropped</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="1823" end_char="1824">to</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="1826" end_char="1826">a</TOKEN>
+<TOKEN id="token-15-23" pos="unknown" morph="none" start_char="1828" end_char="1834">30-year</TOKEN>
+<TOKEN id="token-15-24" pos="word" morph="none" start_char="1836" end_char="1838">low</TOKEN>
+<TOKEN id="token-15-25" pos="punct" morph="none" start_char="1839" end_char="1839">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1841" end_char="1980">
+<ORIGINAL_TEXT>The resulting fiscal crisis has prompted the government to print more money, which has led to hyperinflation and a collapse of the currency.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1841" end_char="1843">The</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1845" end_char="1853">resulting</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1855" end_char="1860">fiscal</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1862" end_char="1867">crisis</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1869" end_char="1871">has</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1873" end_char="1880">prompted</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1882" end_char="1884">the</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1886" end_char="1895">government</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1897" end_char="1898">to</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="1900" end_char="1904">print</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="1906" end_char="1909">more</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="1911" end_char="1915">money</TOKEN>
+<TOKEN id="token-16-12" pos="punct" morph="none" start_char="1916" end_char="1916">,</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="1918" end_char="1922">which</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="1924" end_char="1926">has</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="1928" end_char="1930">led</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="1932" end_char="1933">to</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="1935" end_char="1948">hyperinflation</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="1950" end_char="1952">and</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="1954" end_char="1954">a</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="1956" end_char="1963">collapse</TOKEN>
+<TOKEN id="token-16-21" pos="word" morph="none" start_char="1965" end_char="1966">of</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="1968" end_char="1970">the</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="1972" end_char="1979">currency</TOKEN>
+<TOKEN id="token-16-24" pos="punct" morph="none" start_char="1980" end_char="1980">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1982" end_char="2068">
+<ORIGINAL_TEXT>It also means that the government can’t import enough food and medicine to meet demand.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1982" end_char="1983">It</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1985" end_char="1988">also</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1990" end_char="1994">means</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1996" end_char="1999">that</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2001" end_char="2003">the</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2005" end_char="2014">government</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2016" end_char="2020">can’t</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2022" end_char="2027">import</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2029" end_char="2034">enough</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2036" end_char="2039">food</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2041" end_char="2043">and</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2045" end_char="2052">medicine</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2054" end_char="2055">to</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2057" end_char="2060">meet</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="2062" end_char="2067">demand</TOKEN>
+<TOKEN id="token-17-15" pos="punct" morph="none" start_char="2068" end_char="2068">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2070" end_char="2305">
+<ORIGINAL_TEXT>Maduro has rejected economic reforms out of loyalty to socialism and because many government officials are allegedly getting rich off the economic distortions – through exchange rate scams and by selling scarce food on the black market.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2070" end_char="2075">Maduro</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2077" end_char="2079">has</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2081" end_char="2088">rejected</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2090" end_char="2097">economic</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2099" end_char="2105">reforms</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2107" end_char="2109">out</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2111" end_char="2112">of</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="2114" end_char="2120">loyalty</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="2122" end_char="2123">to</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="2125" end_char="2133">socialism</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="2135" end_char="2137">and</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="2139" end_char="2145">because</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2147" end_char="2150">many</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2152" end_char="2161">government</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2163" end_char="2171">officials</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="2173" end_char="2175">are</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="2177" end_char="2185">allegedly</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="2187" end_char="2193">getting</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="2195" end_char="2198">rich</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="2200" end_char="2202">off</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="2204" end_char="2206">the</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="2208" end_char="2215">economic</TOKEN>
+<TOKEN id="token-18-22" pos="word" morph="none" start_char="2217" end_char="2227">distortions</TOKEN>
+<TOKEN id="token-18-23" pos="punct" morph="none" start_char="2229" end_char="2229">–</TOKEN>
+<TOKEN id="token-18-24" pos="word" morph="none" start_char="2231" end_char="2237">through</TOKEN>
+<TOKEN id="token-18-25" pos="word" morph="none" start_char="2239" end_char="2246">exchange</TOKEN>
+<TOKEN id="token-18-26" pos="word" morph="none" start_char="2248" end_char="2251">rate</TOKEN>
+<TOKEN id="token-18-27" pos="word" morph="none" start_char="2253" end_char="2257">scams</TOKEN>
+<TOKEN id="token-18-28" pos="word" morph="none" start_char="2259" end_char="2261">and</TOKEN>
+<TOKEN id="token-18-29" pos="word" morph="none" start_char="2263" end_char="2264">by</TOKEN>
+<TOKEN id="token-18-30" pos="word" morph="none" start_char="2266" end_char="2272">selling</TOKEN>
+<TOKEN id="token-18-31" pos="word" morph="none" start_char="2274" end_char="2279">scarce</TOKEN>
+<TOKEN id="token-18-32" pos="word" morph="none" start_char="2281" end_char="2284">food</TOKEN>
+<TOKEN id="token-18-33" pos="word" morph="none" start_char="2286" end_char="2287">on</TOKEN>
+<TOKEN id="token-18-34" pos="word" morph="none" start_char="2289" end_char="2291">the</TOKEN>
+<TOKEN id="token-18-35" pos="word" morph="none" start_char="2293" end_char="2297">black</TOKEN>
+<TOKEN id="token-18-36" pos="word" morph="none" start_char="2299" end_char="2304">market</TOKEN>
+<TOKEN id="token-18-37" pos="punct" morph="none" start_char="2305" end_char="2305">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2307" end_char="2323">
+<ORIGINAL_TEXT>Was this helpful?</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="2307" end_char="2309">Was</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="2311" end_char="2314">this</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="2316" end_char="2322">helpful</TOKEN>
+<TOKEN id="token-19-3" pos="punct" morph="none" start_char="2323" end_char="2323">?</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2325" end_char="2352">
+<ORIGINAL_TEXT>Thank you for your feedback.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2325" end_char="2329">Thank</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2331" end_char="2333">you</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="2335" end_char="2337">for</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2339" end_char="2342">your</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2344" end_char="2351">feedback</TOKEN>
+<TOKEN id="token-20-5" pos="punct" morph="none" start_char="2352" end_char="2352">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2356" end_char="2574">
+<ORIGINAL_TEXT>Maduro said the government would still provide direct subsidies to citizens holding the "fatherland card", a state-issued identification card that the government uses to provide bonuses and track use of social services.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2356" end_char="2361">Maduro</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2363" end_char="2366">said</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="2368" end_char="2370">the</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2372" end_char="2381">government</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2383" end_char="2387">would</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="2389" end_char="2393">still</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="2395" end_char="2401">provide</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="2403" end_char="2408">direct</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="2410" end_char="2418">subsidies</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="2420" end_char="2421">to</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="2423" end_char="2430">citizens</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="2432" end_char="2438">holding</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="2440" end_char="2442">the</TOKEN>
+<TOKEN id="token-21-13" pos="punct" morph="none" start_char="2444" end_char="2444">"</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="2445" end_char="2454">fatherland</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="2456" end_char="2459">card</TOKEN>
+<TOKEN id="token-21-16" pos="punct" morph="none" start_char="2460" end_char="2461">",</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="2463" end_char="2463">a</TOKEN>
+<TOKEN id="token-21-18" pos="unknown" morph="none" start_char="2465" end_char="2476">state-issued</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="2478" end_char="2491">identification</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="2493" end_char="2496">card</TOKEN>
+<TOKEN id="token-21-21" pos="word" morph="none" start_char="2498" end_char="2501">that</TOKEN>
+<TOKEN id="token-21-22" pos="word" morph="none" start_char="2503" end_char="2505">the</TOKEN>
+<TOKEN id="token-21-23" pos="word" morph="none" start_char="2507" end_char="2516">government</TOKEN>
+<TOKEN id="token-21-24" pos="word" morph="none" start_char="2518" end_char="2521">uses</TOKEN>
+<TOKEN id="token-21-25" pos="word" morph="none" start_char="2523" end_char="2524">to</TOKEN>
+<TOKEN id="token-21-26" pos="word" morph="none" start_char="2526" end_char="2532">provide</TOKEN>
+<TOKEN id="token-21-27" pos="word" morph="none" start_char="2534" end_char="2540">bonuses</TOKEN>
+<TOKEN id="token-21-28" pos="word" morph="none" start_char="2542" end_char="2544">and</TOKEN>
+<TOKEN id="token-21-29" pos="word" morph="none" start_char="2546" end_char="2550">track</TOKEN>
+<TOKEN id="token-21-30" pos="word" morph="none" start_char="2552" end_char="2554">use</TOKEN>
+<TOKEN id="token-21-31" pos="word" morph="none" start_char="2556" end_char="2557">of</TOKEN>
+<TOKEN id="token-21-32" pos="word" morph="none" start_char="2559" end_char="2564">social</TOKEN>
+<TOKEN id="token-21-33" pos="word" morph="none" start_char="2566" end_char="2573">services</TOKEN>
+<TOKEN id="token-21-34" pos="punct" morph="none" start_char="2574" end_char="2574">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2577" end_char="2699">
+<ORIGINAL_TEXT>He said the subsidy was only available to those who registered their cars in a vehicle census being conducted by the state.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2577" end_char="2578">He</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="2580" end_char="2583">said</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="2585" end_char="2587">the</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="2589" end_char="2595">subsidy</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="2597" end_char="2599">was</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="2601" end_char="2604">only</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="2606" end_char="2614">available</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="2616" end_char="2617">to</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="2619" end_char="2623">those</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="2625" end_char="2627">who</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="2629" end_char="2638">registered</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="2640" end_char="2644">their</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="2646" end_char="2649">cars</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="2651" end_char="2652">in</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="2654" end_char="2654">a</TOKEN>
+<TOKEN id="token-22-15" pos="word" morph="none" start_char="2656" end_char="2662">vehicle</TOKEN>
+<TOKEN id="token-22-16" pos="word" morph="none" start_char="2664" end_char="2669">census</TOKEN>
+<TOKEN id="token-22-17" pos="word" morph="none" start_char="2671" end_char="2675">being</TOKEN>
+<TOKEN id="token-22-18" pos="word" morph="none" start_char="2677" end_char="2685">conducted</TOKEN>
+<TOKEN id="token-22-19" pos="word" morph="none" start_char="2687" end_char="2688">by</TOKEN>
+<TOKEN id="token-22-20" pos="word" morph="none" start_char="2690" end_char="2692">the</TOKEN>
+<TOKEN id="token-22-21" pos="word" morph="none" start_char="2694" end_char="2698">state</TOKEN>
+<TOKEN id="token-22-22" pos="punct" morph="none" start_char="2699" end_char="2699">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2703" end_char="2769">
+<ORIGINAL_TEXT>Venezuela has dirt-cheap fuel, so why is driving nearly impossible?</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="2703" end_char="2711">Venezuela</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="2713" end_char="2715">has</TOKEN>
+<TOKEN id="token-23-2" pos="unknown" morph="none" start_char="2717" end_char="2726">dirt-cheap</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="2728" end_char="2731">fuel</TOKEN>
+<TOKEN id="token-23-4" pos="punct" morph="none" start_char="2732" end_char="2732">,</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="2734" end_char="2735">so</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="2737" end_char="2739">why</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="2741" end_char="2742">is</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="2744" end_char="2750">driving</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="2752" end_char="2757">nearly</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="2759" end_char="2768">impossible</TOKEN>
+<TOKEN id="token-23-11" pos="punct" morph="none" start_char="2769" end_char="2769">?</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2772" end_char="2780">
+<ORIGINAL_TEXT>Read more</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="2772" end_char="2775">Read</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="2777" end_char="2780">more</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="2784" end_char="2955">
+<ORIGINAL_TEXT>On Friday, the UN said that more than half a million Venezuelans had crossed into Ecuador this year as part of one of the largest mass migrations in Latin American history.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="2784" end_char="2785">On</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="2787" end_char="2792">Friday</TOKEN>
+<TOKEN id="token-25-2" pos="punct" morph="none" start_char="2793" end_char="2793">,</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="2795" end_char="2797">the</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="2799" end_char="2800">UN</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="2802" end_char="2805">said</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="2807" end_char="2810">that</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="2812" end_char="2815">more</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="2817" end_char="2820">than</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="2822" end_char="2825">half</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="2827" end_char="2827">a</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="2829" end_char="2835">million</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="2837" end_char="2847">Venezuelans</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="2849" end_char="2851">had</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="2853" end_char="2859">crossed</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="2861" end_char="2864">into</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="2866" end_char="2872">Ecuador</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="2874" end_char="2877">this</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="2879" end_char="2882">year</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="2884" end_char="2885">as</TOKEN>
+<TOKEN id="token-25-20" pos="word" morph="none" start_char="2887" end_char="2890">part</TOKEN>
+<TOKEN id="token-25-21" pos="word" morph="none" start_char="2892" end_char="2893">of</TOKEN>
+<TOKEN id="token-25-22" pos="word" morph="none" start_char="2895" end_char="2897">one</TOKEN>
+<TOKEN id="token-25-23" pos="word" morph="none" start_char="2899" end_char="2900">of</TOKEN>
+<TOKEN id="token-25-24" pos="word" morph="none" start_char="2902" end_char="2904">the</TOKEN>
+<TOKEN id="token-25-25" pos="word" morph="none" start_char="2906" end_char="2912">largest</TOKEN>
+<TOKEN id="token-25-26" pos="word" morph="none" start_char="2914" end_char="2917">mass</TOKEN>
+<TOKEN id="token-25-27" pos="word" morph="none" start_char="2919" end_char="2928">migrations</TOKEN>
+<TOKEN id="token-25-28" pos="word" morph="none" start_char="2930" end_char="2931">in</TOKEN>
+<TOKEN id="token-25-29" pos="word" morph="none" start_char="2933" end_char="2937">Latin</TOKEN>
+<TOKEN id="token-25-30" pos="word" morph="none" start_char="2939" end_char="2946">American</TOKEN>
+<TOKEN id="token-25-31" pos="word" morph="none" start_char="2948" end_char="2954">history</TOKEN>
+<TOKEN id="token-25-32" pos="punct" morph="none" start_char="2955" end_char="2955">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="2958" end_char="3180">
+<ORIGINAL_TEXT>About 547,000 citizens have entered Ecuador since January – mostly through its northern border with Colombia – to escape rampant crime and political violence, a collapsing economy and severe shortages of food and medicines.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="2958" end_char="2962">About</TOKEN>
+<TOKEN id="token-26-1" pos="unknown" morph="none" start_char="2964" end_char="2970">547,000</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="2972" end_char="2979">citizens</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="2981" end_char="2984">have</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="2986" end_char="2992">entered</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="2994" end_char="3000">Ecuador</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="3002" end_char="3006">since</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="3008" end_char="3014">January</TOKEN>
+<TOKEN id="token-26-8" pos="punct" morph="none" start_char="3016" end_char="3016">–</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="3018" end_char="3023">mostly</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="3025" end_char="3031">through</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="3033" end_char="3035">its</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="3037" end_char="3044">northern</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="3046" end_char="3051">border</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="3053" end_char="3056">with</TOKEN>
+<TOKEN id="token-26-15" pos="word" morph="none" start_char="3058" end_char="3065">Colombia</TOKEN>
+<TOKEN id="token-26-16" pos="punct" morph="none" start_char="3067" end_char="3067">–</TOKEN>
+<TOKEN id="token-26-17" pos="word" morph="none" start_char="3069" end_char="3070">to</TOKEN>
+<TOKEN id="token-26-18" pos="word" morph="none" start_char="3072" end_char="3077">escape</TOKEN>
+<TOKEN id="token-26-19" pos="word" morph="none" start_char="3079" end_char="3085">rampant</TOKEN>
+<TOKEN id="token-26-20" pos="word" morph="none" start_char="3087" end_char="3091">crime</TOKEN>
+<TOKEN id="token-26-21" pos="word" morph="none" start_char="3093" end_char="3095">and</TOKEN>
+<TOKEN id="token-26-22" pos="word" morph="none" start_char="3097" end_char="3105">political</TOKEN>
+<TOKEN id="token-26-23" pos="word" morph="none" start_char="3107" end_char="3114">violence</TOKEN>
+<TOKEN id="token-26-24" pos="punct" morph="none" start_char="3115" end_char="3115">,</TOKEN>
+<TOKEN id="token-26-25" pos="word" morph="none" start_char="3117" end_char="3117">a</TOKEN>
+<TOKEN id="token-26-26" pos="word" morph="none" start_char="3119" end_char="3128">collapsing</TOKEN>
+<TOKEN id="token-26-27" pos="word" morph="none" start_char="3130" end_char="3136">economy</TOKEN>
+<TOKEN id="token-26-28" pos="word" morph="none" start_char="3138" end_char="3140">and</TOKEN>
+<TOKEN id="token-26-29" pos="word" morph="none" start_char="3142" end_char="3147">severe</TOKEN>
+<TOKEN id="token-26-30" pos="word" morph="none" start_char="3149" end_char="3157">shortages</TOKEN>
+<TOKEN id="token-26-31" pos="word" morph="none" start_char="3159" end_char="3160">of</TOKEN>
+<TOKEN id="token-26-32" pos="word" morph="none" start_char="3162" end_char="3165">food</TOKEN>
+<TOKEN id="token-26-33" pos="word" morph="none" start_char="3167" end_char="3169">and</TOKEN>
+<TOKEN id="token-26-34" pos="word" morph="none" start_char="3171" end_char="3179">medicines</TOKEN>
+<TOKEN id="token-26-35" pos="punct" morph="none" start_char="3180" end_char="3180">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="3183" end_char="3277">
+<ORIGINAL_TEXT>More than 1 million Venezuelans have also crossed into Colombia since the exodus began in 2015.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="3183" end_char="3186">More</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="3188" end_char="3191">than</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="3193" end_char="3193">1</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="3195" end_char="3201">million</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="3203" end_char="3213">Venezuelans</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="3215" end_char="3218">have</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="3220" end_char="3223">also</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="3225" end_char="3231">crossed</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="3233" end_char="3236">into</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="3238" end_char="3245">Colombia</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="3247" end_char="3251">since</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="3253" end_char="3255">the</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="3257" end_char="3262">exodus</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="3264" end_char="3268">began</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="3270" end_char="3271">in</TOKEN>
+<TOKEN id="token-27-15" pos="word" morph="none" start_char="3273" end_char="3276">2015</TOKEN>
+<TOKEN id="token-27-16" pos="punct" morph="none" start_char="3277" end_char="3277">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="3279" end_char="3409">
+<ORIGINAL_TEXT>Others have fanned out across Latin American and Caribbean nations including Mexico, the Dominican Republic and Trindad and Tobago.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="3279" end_char="3284">Others</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="3286" end_char="3289">have</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="3291" end_char="3296">fanned</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="3298" end_char="3300">out</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="3302" end_char="3307">across</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="3309" end_char="3313">Latin</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="3315" end_char="3322">American</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="3324" end_char="3326">and</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="3328" end_char="3336">Caribbean</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="3338" end_char="3344">nations</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="3346" end_char="3354">including</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="3356" end_char="3361">Mexico</TOKEN>
+<TOKEN id="token-28-12" pos="punct" morph="none" start_char="3362" end_char="3362">,</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="3364" end_char="3366">the</TOKEN>
+<TOKEN id="token-28-14" pos="word" morph="none" start_char="3368" end_char="3376">Dominican</TOKEN>
+<TOKEN id="token-28-15" pos="word" morph="none" start_char="3378" end_char="3385">Republic</TOKEN>
+<TOKEN id="token-28-16" pos="word" morph="none" start_char="3387" end_char="3389">and</TOKEN>
+<TOKEN id="token-28-17" pos="word" morph="none" start_char="3391" end_char="3397">Trindad</TOKEN>
+<TOKEN id="token-28-18" pos="word" morph="none" start_char="3399" end_char="3401">and</TOKEN>
+<TOKEN id="token-28-19" pos="word" morph="none" start_char="3403" end_char="3408">Tobago</TOKEN>
+<TOKEN id="token-28-20" pos="punct" morph="none" start_char="3409" end_char="3409">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="3411" end_char="3505">
+<ORIGINAL_TEXT>Tens of thousands have hiked into Brazil down a remote Amazon road known as the Hunger Highway.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="3411" end_char="3414">Tens</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="3416" end_char="3417">of</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="3419" end_char="3427">thousands</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="3429" end_char="3432">have</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="3434" end_char="3438">hiked</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="3440" end_char="3443">into</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="3445" end_char="3450">Brazil</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="3452" end_char="3455">down</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="3457" end_char="3457">a</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="3459" end_char="3464">remote</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="3466" end_char="3471">Amazon</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="3473" end_char="3476">road</TOKEN>
+<TOKEN id="token-29-12" pos="word" morph="none" start_char="3478" end_char="3482">known</TOKEN>
+<TOKEN id="token-29-13" pos="word" morph="none" start_char="3484" end_char="3485">as</TOKEN>
+<TOKEN id="token-29-14" pos="word" morph="none" start_char="3487" end_char="3489">the</TOKEN>
+<TOKEN id="token-29-15" pos="word" morph="none" start_char="3491" end_char="3496">Hunger</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="3498" end_char="3504">Highway</TOKEN>
+<TOKEN id="token-29-17" pos="punct" morph="none" start_char="3505" end_char="3505">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

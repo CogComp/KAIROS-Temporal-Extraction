@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>CogcompTime V2 Demo</title>
+</head>
+<body>
+<div class="container">
+
+    <nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand" href="./index.html">
+            CogCompTime V2 Demo
+        </a>
+    </nav>
+
+    <div class="row">
+        Communicating with backend: <a id="base-url">http://macniece.seas.upenn.edu:4014</a>
+    </div>
+
+    <br>
+    <div id="input_section">
+        <textarea class="form-control" id="main-input"></textarea>
+        <button type="submit" class="btn btn-primary" onclick="gen_result();">Submit</button>
+    </div>
+
+    <br>
+    <div id="result-display">
+
+    </div>
+
+</div>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+<script>
+
+    function gen_result() {
+        document.getElementById("result-display").innerHTML = "";
+        var base_url = document.getElementById("base-url").innerText;
+        var text = document.getElementById("main-input").value;
+        var request_url = base_url + "/request";
+
+        let xhr = new XMLHttpRequest();
+        xhr.open("POST", request_url, true);
+        xhr.setRequestHeader("Content-Type", "application/json");
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+                var json = JSON.parse(xhr.responseText);
+                request_callback(json);
+            }
+        };
+        var data = JSON.stringify({
+            text: text,
+        });
+        xhr.send(data);
+    }
+
+    function request_callback(result) {
+        var order = result['result'];
+        for (var i = 0; i < order.length; i++) {
+            var content = order[i];
+            document.getElementById("result-display").innerHTML += "<span class='badge badge-primary'>" + content + "</span> ";
+        }
+
+    }
+</script>
+</body>
+</html>

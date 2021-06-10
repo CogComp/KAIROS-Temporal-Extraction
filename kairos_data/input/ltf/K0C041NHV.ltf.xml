@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="K0C041NHV" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="2491" raw_text_md5="000b08d742218e1f46326e4131651384">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="45">
+<ORIGINAL_TEXT>Juvenile charged with bringing bomb to school</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="8">Juvenile</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="10" end_char="16">charged</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="18" end_char="21">with</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="23" end_char="30">bringing</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="32" end_char="35">bomb</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="37" end_char="38">to</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="40" end_char="45">school</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="49" end_char="51">
+<ORIGINAL_TEXT>ST.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="49" end_char="50">ST</TOKEN>
+<TOKEN id="token-1-1" pos="punct" morph="none" start_char="51" end_char="51">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="53" end_char="137">
+<ORIGINAL_TEXT>GEORGE, Utah (News4Utah – Students went back to class at Pine View High School in St.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="53" end_char="58">GEORGE</TOKEN>
+<TOKEN id="token-2-1" pos="punct" morph="none" start_char="59" end_char="59">,</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="61" end_char="64">Utah</TOKEN>
+<TOKEN id="token-2-3" pos="punct" morph="none" start_char="66" end_char="66">(</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="67" end_char="75">News4Utah</TOKEN>
+<TOKEN id="token-2-5" pos="punct" morph="none" start_char="77" end_char="77">–</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="79" end_char="86">Students</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="88" end_char="91">went</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="93" end_char="96">back</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="98" end_char="99">to</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="101" end_char="105">class</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="107" end_char="108">at</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="110" end_char="113">Pine</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="115" end_char="118">View</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="120" end_char="123">High</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="125" end_char="130">School</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="132" end_char="133">in</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="135" end_char="136">St</TOKEN>
+<TOKEN id="token-2-18" pos="punct" morph="none" start_char="137" end_char="137">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="139" end_char="232">
+<ORIGINAL_TEXT>George Tuesday after the school was evacuated Monday after a bomb was found inside the school.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="139" end_char="144">George</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="146" end_char="152">Tuesday</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="154" end_char="158">after</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="160" end_char="162">the</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="164" end_char="169">school</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="171" end_char="173">was</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="175" end_char="183">evacuated</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="185" end_char="190">Monday</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="192" end_char="196">after</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="198" end_char="198">a</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="200" end_char="203">bomb</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="205" end_char="207">was</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="209" end_char="213">found</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="215" end_char="220">inside</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="222" end_char="224">the</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="226" end_char="231">school</TOKEN>
+<TOKEN id="token-3-16" pos="punct" morph="none" start_char="232" end_char="232">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="235" end_char="300">
+<ORIGINAL_TEXT>The suspect is now linked to another crime at another high school.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="235" end_char="237">The</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="239" end_char="245">suspect</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="247" end_char="248">is</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="250" end_char="252">now</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="254" end_char="259">linked</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="261" end_char="262">to</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="264" end_char="270">another</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="272" end_char="276">crime</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="278" end_char="279">at</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="281" end_char="287">another</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="289" end_char="292">high</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="294" end_char="299">school</TOKEN>
+<TOKEN id="token-4-12" pos="punct" morph="none" start_char="300" end_char="300">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="302" end_char="437">
+<ORIGINAL_TEXT>A juvenile is in custody and police say after a search of the boys home, they discovered that he was researching ISIS propaganda online.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="302" end_char="302">A</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="304" end_char="311">juvenile</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="313" end_char="314">is</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="316" end_char="317">in</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="319" end_char="325">custody</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="327" end_char="329">and</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="331" end_char="336">police</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="338" end_char="340">say</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="342" end_char="346">after</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="348" end_char="348">a</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="350" end_char="355">search</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="357" end_char="358">of</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="360" end_char="362">the</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="364" end_char="367">boys</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="369" end_char="372">home</TOKEN>
+<TOKEN id="token-5-15" pos="punct" morph="none" start_char="373" end_char="373">,</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="375" end_char="378">they</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="380" end_char="389">discovered</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="391" end_char="394">that</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="396" end_char="397">he</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="399" end_char="401">was</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="403" end_char="413">researching</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="415" end_char="418">ISIS</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="420" end_char="429">propaganda</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="431" end_char="436">online</TOKEN>
+<TOKEN id="token-5-25" pos="punct" morph="none" start_char="437" end_char="437">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="440" end_char="548">
+<ORIGINAL_TEXT>"It was really scary," said Pine View High School senior Olivia Jones, who was one of the students evacuated.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="punct" morph="none" start_char="440" end_char="440">"</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="441" end_char="442">It</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="444" end_char="446">was</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="448" end_char="453">really</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="455" end_char="459">scary</TOKEN>
+<TOKEN id="token-6-5" pos="punct" morph="none" start_char="460" end_char="461">,"</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="463" end_char="466">said</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="468" end_char="471">Pine</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="473" end_char="476">View</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="478" end_char="481">High</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="483" end_char="488">School</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="490" end_char="495">senior</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="497" end_char="502">Olivia</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="504" end_char="508">Jones</TOKEN>
+<TOKEN id="token-6-14" pos="punct" morph="none" start_char="509" end_char="509">,</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="511" end_char="513">who</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="515" end_char="517">was</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="519" end_char="521">one</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="523" end_char="524">of</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="526" end_char="528">the</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="530" end_char="537">students</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="539" end_char="547">evacuated</TOKEN>
+<TOKEN id="token-6-22" pos="punct" morph="none" start_char="548" end_char="548">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="550" end_char="846">
+<ORIGINAL_TEXT>"I saw cops coming from one side and then another side, and grabbed this kid that was literally five feet away from me and they were kind of like aggressive with him, and and brought him to the top of the stadium and patted him down and searched him and he ended up being the suspect," said Jones.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="punct" morph="none" start_char="550" end_char="550">"</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="551" end_char="551">I</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="553" end_char="555">saw</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="557" end_char="560">cops</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="562" end_char="567">coming</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="569" end_char="572">from</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="574" end_char="576">one</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="578" end_char="581">side</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="583" end_char="585">and</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="587" end_char="590">then</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="592" end_char="598">another</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="600" end_char="603">side</TOKEN>
+<TOKEN id="token-7-12" pos="punct" morph="none" start_char="604" end_char="604">,</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="606" end_char="608">and</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="610" end_char="616">grabbed</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="618" end_char="621">this</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="623" end_char="625">kid</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="627" end_char="630">that</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="632" end_char="634">was</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="636" end_char="644">literally</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="646" end_char="649">five</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="651" end_char="654">feet</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="656" end_char="659">away</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="661" end_char="664">from</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="666" end_char="667">me</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="669" end_char="671">and</TOKEN>
+<TOKEN id="token-7-26" pos="word" morph="none" start_char="673" end_char="676">they</TOKEN>
+<TOKEN id="token-7-27" pos="word" morph="none" start_char="678" end_char="681">were</TOKEN>
+<TOKEN id="token-7-28" pos="word" morph="none" start_char="683" end_char="686">kind</TOKEN>
+<TOKEN id="token-7-29" pos="word" morph="none" start_char="688" end_char="689">of</TOKEN>
+<TOKEN id="token-7-30" pos="word" morph="none" start_char="691" end_char="694">like</TOKEN>
+<TOKEN id="token-7-31" pos="word" morph="none" start_char="696" end_char="705">aggressive</TOKEN>
+<TOKEN id="token-7-32" pos="word" morph="none" start_char="707" end_char="710">with</TOKEN>
+<TOKEN id="token-7-33" pos="word" morph="none" start_char="712" end_char="714">him</TOKEN>
+<TOKEN id="token-7-34" pos="punct" morph="none" start_char="715" end_char="715">,</TOKEN>
+<TOKEN id="token-7-35" pos="word" morph="none" start_char="717" end_char="719">and</TOKEN>
+<TOKEN id="token-7-36" pos="word" morph="none" start_char="721" end_char="723">and</TOKEN>
+<TOKEN id="token-7-37" pos="word" morph="none" start_char="725" end_char="731">brought</TOKEN>
+<TOKEN id="token-7-38" pos="word" morph="none" start_char="733" end_char="735">him</TOKEN>
+<TOKEN id="token-7-39" pos="word" morph="none" start_char="737" end_char="738">to</TOKEN>
+<TOKEN id="token-7-40" pos="word" morph="none" start_char="740" end_char="742">the</TOKEN>
+<TOKEN id="token-7-41" pos="word" morph="none" start_char="744" end_char="746">top</TOKEN>
+<TOKEN id="token-7-42" pos="word" morph="none" start_char="748" end_char="749">of</TOKEN>
+<TOKEN id="token-7-43" pos="word" morph="none" start_char="751" end_char="753">the</TOKEN>
+<TOKEN id="token-7-44" pos="word" morph="none" start_char="755" end_char="761">stadium</TOKEN>
+<TOKEN id="token-7-45" pos="word" morph="none" start_char="763" end_char="765">and</TOKEN>
+<TOKEN id="token-7-46" pos="word" morph="none" start_char="767" end_char="772">patted</TOKEN>
+<TOKEN id="token-7-47" pos="word" morph="none" start_char="774" end_char="776">him</TOKEN>
+<TOKEN id="token-7-48" pos="word" morph="none" start_char="778" end_char="781">down</TOKEN>
+<TOKEN id="token-7-49" pos="word" morph="none" start_char="783" end_char="785">and</TOKEN>
+<TOKEN id="token-7-50" pos="word" morph="none" start_char="787" end_char="794">searched</TOKEN>
+<TOKEN id="token-7-51" pos="word" morph="none" start_char="796" end_char="798">him</TOKEN>
+<TOKEN id="token-7-52" pos="word" morph="none" start_char="800" end_char="802">and</TOKEN>
+<TOKEN id="token-7-53" pos="word" morph="none" start_char="804" end_char="805">he</TOKEN>
+<TOKEN id="token-7-54" pos="word" morph="none" start_char="807" end_char="811">ended</TOKEN>
+<TOKEN id="token-7-55" pos="word" morph="none" start_char="813" end_char="814">up</TOKEN>
+<TOKEN id="token-7-56" pos="word" morph="none" start_char="816" end_char="820">being</TOKEN>
+<TOKEN id="token-7-57" pos="word" morph="none" start_char="822" end_char="824">the</TOKEN>
+<TOKEN id="token-7-58" pos="word" morph="none" start_char="826" end_char="832">suspect</TOKEN>
+<TOKEN id="token-7-59" pos="punct" morph="none" start_char="833" end_char="834">,"</TOKEN>
+<TOKEN id="token-7-60" pos="word" morph="none" start_char="836" end_char="839">said</TOKEN>
+<TOKEN id="token-7-61" pos="word" morph="none" start_char="841" end_char="845">Jones</TOKEN>
+<TOKEN id="token-7-62" pos="punct" morph="none" start_char="846" end_char="846">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="849" end_char="894">
+<ORIGINAL_TEXT>"It was an explosive device that was homemade.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="punct" morph="none" start_char="849" end_char="849">"</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="850" end_char="851">It</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="853" end_char="855">was</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="857" end_char="858">an</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="860" end_char="868">explosive</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="870" end_char="875">device</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="877" end_char="880">that</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="882" end_char="884">was</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="886" end_char="893">homemade</TOKEN>
+<TOKEN id="token-8-9" pos="punct" morph="none" start_char="894" end_char="894">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="896" end_char="1041">
+<ORIGINAL_TEXT>And the purpose of that device was to cause severe injury, potentially death, and damage," said Lona Trombley, Public Information Officer with St.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="896" end_char="898">And</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="900" end_char="902">the</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="904" end_char="910">purpose</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="912" end_char="913">of</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="915" end_char="918">that</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="920" end_char="925">device</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="927" end_char="929">was</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="931" end_char="932">to</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="934" end_char="938">cause</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="940" end_char="945">severe</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="947" end_char="952">injury</TOKEN>
+<TOKEN id="token-9-11" pos="punct" morph="none" start_char="953" end_char="953">,</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="955" end_char="965">potentially</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="967" end_char="971">death</TOKEN>
+<TOKEN id="token-9-14" pos="punct" morph="none" start_char="972" end_char="972">,</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="974" end_char="976">and</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="978" end_char="983">damage</TOKEN>
+<TOKEN id="token-9-17" pos="punct" morph="none" start_char="984" end_char="985">,"</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="987" end_char="990">said</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="992" end_char="995">Lona</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="997" end_char="1004">Trombley</TOKEN>
+<TOKEN id="token-9-21" pos="punct" morph="none" start_char="1005" end_char="1005">,</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="1007" end_char="1012">Public</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="1014" end_char="1024">Information</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="1026" end_char="1032">Officer</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="1034" end_char="1037">with</TOKEN>
+<TOKEN id="token-9-26" pos="word" morph="none" start_char="1039" end_char="1040">St</TOKEN>
+<TOKEN id="token-9-27" pos="punct" morph="none" start_char="1041" end_char="1041">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1043" end_char="1056">
+<ORIGINAL_TEXT>George Police.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1043" end_char="1048">George</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1050" end_char="1055">Police</TOKEN>
+<TOKEN id="token-10-2" pos="punct" morph="none" start_char="1056" end_char="1056">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1059" end_char="1167">
+<ORIGINAL_TEXT>Police say that explosive was purposefully left inside a common area at Pine View High School by the suspect.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1059" end_char="1064">Police</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1066" end_char="1068">say</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1070" end_char="1073">that</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1075" end_char="1083">explosive</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1085" end_char="1087">was</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1089" end_char="1100">purposefully</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1102" end_char="1105">left</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1107" end_char="1112">inside</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1114" end_char="1114">a</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1116" end_char="1121">common</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1123" end_char="1126">area</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1128" end_char="1129">at</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1131" end_char="1134">Pine</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1136" end_char="1139">View</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1141" end_char="1144">High</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1146" end_char="1151">School</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1153" end_char="1154">by</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1156" end_char="1158">the</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="1160" end_char="1166">suspect</TOKEN>
+<TOKEN id="token-11-19" pos="punct" morph="none" start_char="1167" end_char="1167">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1170" end_char="1198">
+<ORIGINAL_TEXT>"He was in my seminary class.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="punct" morph="none" start_char="1170" end_char="1170">"</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1171" end_char="1172">He</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1174" end_char="1176">was</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1178" end_char="1179">in</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1181" end_char="1182">my</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1184" end_char="1191">seminary</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1193" end_char="1197">class</TOKEN>
+<TOKEN id="token-12-7" pos="punct" morph="none" start_char="1198" end_char="1198">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1200" end_char="1247">
+<ORIGINAL_TEXT>He was super quiet … He kind of kept to himself.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1200" end_char="1201">He</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1203" end_char="1205">was</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1207" end_char="1211">super</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1213" end_char="1217">quiet</TOKEN>
+<TOKEN id="token-13-4" pos="punct" morph="none" start_char="1219" end_char="1219">…</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1221" end_char="1222">He</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1224" end_char="1227">kind</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1229" end_char="1230">of</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1232" end_char="1235">kept</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1237" end_char="1238">to</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1240" end_char="1246">himself</TOKEN>
+<TOKEN id="token-13-11" pos="punct" morph="none" start_char="1247" end_char="1247">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1249" end_char="1400">
+<ORIGINAL_TEXT>My seminary teacher was saying that before they had been evacuated he had been hysterically laughing which was out of the ordinary for him," said Jones.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1249" end_char="1250">My</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1252" end_char="1259">seminary</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1261" end_char="1267">teacher</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1269" end_char="1271">was</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1273" end_char="1278">saying</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1280" end_char="1283">that</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1285" end_char="1290">before</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1292" end_char="1295">they</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1297" end_char="1299">had</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1301" end_char="1304">been</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1306" end_char="1314">evacuated</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1316" end_char="1317">he</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1319" end_char="1321">had</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1323" end_char="1326">been</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1328" end_char="1339">hysterically</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1341" end_char="1348">laughing</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="1350" end_char="1354">which</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="1356" end_char="1358">was</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="1360" end_char="1362">out</TOKEN>
+<TOKEN id="token-14-19" pos="word" morph="none" start_char="1364" end_char="1365">of</TOKEN>
+<TOKEN id="token-14-20" pos="word" morph="none" start_char="1367" end_char="1369">the</TOKEN>
+<TOKEN id="token-14-21" pos="word" morph="none" start_char="1371" end_char="1378">ordinary</TOKEN>
+<TOKEN id="token-14-22" pos="word" morph="none" start_char="1380" end_char="1382">for</TOKEN>
+<TOKEN id="token-14-23" pos="word" morph="none" start_char="1384" end_char="1386">him</TOKEN>
+<TOKEN id="token-14-24" pos="punct" morph="none" start_char="1387" end_char="1388">,"</TOKEN>
+<TOKEN id="token-14-25" pos="word" morph="none" start_char="1390" end_char="1393">said</TOKEN>
+<TOKEN id="token-14-26" pos="word" morph="none" start_char="1395" end_char="1399">Jones</TOKEN>
+<TOKEN id="token-14-27" pos="punct" morph="none" start_char="1400" end_char="1400">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1403" end_char="1411">
+<ORIGINAL_TEXT>After St.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1403" end_char="1407">After</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1409" end_char="1410">St</TOKEN>
+<TOKEN id="token-15-2" pos="punct" morph="none" start_char="1411" end_char="1411">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1413" end_char="1510">
+<ORIGINAL_TEXT>George police interviewed the boy who took classes at Pineview High, Hurricane police were called.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1413" end_char="1418">George</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1420" end_char="1425">police</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1427" end_char="1437">interviewed</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1439" end_char="1441">the</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1443" end_char="1445">boy</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1447" end_char="1449">who</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1451" end_char="1454">took</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1456" end_char="1462">classes</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1464" end_char="1465">at</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="1467" end_char="1474">Pineview</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="1476" end_char="1479">High</TOKEN>
+<TOKEN id="token-16-11" pos="punct" morph="none" start_char="1480" end_char="1480">,</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="1482" end_char="1490">Hurricane</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="1492" end_char="1497">police</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="1499" end_char="1502">were</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="1504" end_char="1509">called</TOKEN>
+<TOKEN id="token-16-16" pos="punct" morph="none" start_char="1510" end_char="1510">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1513" end_char="1796">
+<ORIGINAL_TEXT>"Our investigators went to work and they assisted in serving a search warrant at his residence here in Hurricane and the results of that search warrant were items related to the flag incident were seized from the home," said Officer Ken Thompson with Hurricane City Police Department.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="punct" morph="none" start_char="1513" end_char="1513">"</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1514" end_char="1516">Our</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1518" end_char="1530">investigators</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1532" end_char="1535">went</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="1537" end_char="1538">to</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="1540" end_char="1543">work</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1545" end_char="1547">and</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1549" end_char="1552">they</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="1554" end_char="1561">assisted</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1563" end_char="1564">in</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1566" end_char="1572">serving</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="1574" end_char="1574">a</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="1576" end_char="1581">search</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="1583" end_char="1589">warrant</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="1591" end_char="1592">at</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="1594" end_char="1596">his</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="1598" end_char="1606">residence</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="1608" end_char="1611">here</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="1613" end_char="1614">in</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="1616" end_char="1624">Hurricane</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="1626" end_char="1628">and</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="1630" end_char="1632">the</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="1634" end_char="1640">results</TOKEN>
+<TOKEN id="token-17-23" pos="word" morph="none" start_char="1642" end_char="1643">of</TOKEN>
+<TOKEN id="token-17-24" pos="word" morph="none" start_char="1645" end_char="1648">that</TOKEN>
+<TOKEN id="token-17-25" pos="word" morph="none" start_char="1650" end_char="1655">search</TOKEN>
+<TOKEN id="token-17-26" pos="word" morph="none" start_char="1657" end_char="1663">warrant</TOKEN>
+<TOKEN id="token-17-27" pos="word" morph="none" start_char="1665" end_char="1668">were</TOKEN>
+<TOKEN id="token-17-28" pos="word" morph="none" start_char="1670" end_char="1674">items</TOKEN>
+<TOKEN id="token-17-29" pos="word" morph="none" start_char="1676" end_char="1682">related</TOKEN>
+<TOKEN id="token-17-30" pos="word" morph="none" start_char="1684" end_char="1685">to</TOKEN>
+<TOKEN id="token-17-31" pos="word" morph="none" start_char="1687" end_char="1689">the</TOKEN>
+<TOKEN id="token-17-32" pos="word" morph="none" start_char="1691" end_char="1694">flag</TOKEN>
+<TOKEN id="token-17-33" pos="word" morph="none" start_char="1696" end_char="1703">incident</TOKEN>
+<TOKEN id="token-17-34" pos="word" morph="none" start_char="1705" end_char="1708">were</TOKEN>
+<TOKEN id="token-17-35" pos="word" morph="none" start_char="1710" end_char="1715">seized</TOKEN>
+<TOKEN id="token-17-36" pos="word" morph="none" start_char="1717" end_char="1720">from</TOKEN>
+<TOKEN id="token-17-37" pos="word" morph="none" start_char="1722" end_char="1724">the</TOKEN>
+<TOKEN id="token-17-38" pos="word" morph="none" start_char="1726" end_char="1729">home</TOKEN>
+<TOKEN id="token-17-39" pos="punct" morph="none" start_char="1730" end_char="1731">,"</TOKEN>
+<TOKEN id="token-17-40" pos="word" morph="none" start_char="1733" end_char="1736">said</TOKEN>
+<TOKEN id="token-17-41" pos="word" morph="none" start_char="1738" end_char="1744">Officer</TOKEN>
+<TOKEN id="token-17-42" pos="word" morph="none" start_char="1746" end_char="1748">Ken</TOKEN>
+<TOKEN id="token-17-43" pos="word" morph="none" start_char="1750" end_char="1757">Thompson</TOKEN>
+<TOKEN id="token-17-44" pos="word" morph="none" start_char="1759" end_char="1762">with</TOKEN>
+<TOKEN id="token-17-45" pos="word" morph="none" start_char="1764" end_char="1772">Hurricane</TOKEN>
+<TOKEN id="token-17-46" pos="word" morph="none" start_char="1774" end_char="1777">City</TOKEN>
+<TOKEN id="token-17-47" pos="word" morph="none" start_char="1779" end_char="1784">Police</TOKEN>
+<TOKEN id="token-17-48" pos="word" morph="none" start_char="1786" end_char="1795">Department</TOKEN>
+<TOKEN id="token-17-49" pos="punct" morph="none" start_char="1796" end_char="1796">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1799" end_char="1838">
+<ORIGINAL_TEXT>That flag incident happened February 15.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1799" end_char="1802">That</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="1804" end_char="1807">flag</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1809" end_char="1816">incident</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="1818" end_char="1825">happened</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1827" end_char="1834">February</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1836" end_char="1837">15</TOKEN>
+<TOKEN id="token-18-6" pos="punct" morph="none" start_char="1838" end_char="1838">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1840" end_char="1962">
+<ORIGINAL_TEXT>Police say Hurricane High School’s US flag was taken down and replaced with an ISIS Flag, and the school was spray painted.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1840" end_char="1845">Police</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1847" end_char="1849">say</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1851" end_char="1859">Hurricane</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1861" end_char="1864">High</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1866" end_char="1873">School’s</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1875" end_char="1876">US</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1878" end_char="1881">flag</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1883" end_char="1885">was</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="1887" end_char="1891">taken</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="1893" end_char="1896">down</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="1898" end_char="1900">and</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="1902" end_char="1909">replaced</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="1911" end_char="1914">with</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="1916" end_char="1917">an</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="1919" end_char="1922">ISIS</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="1924" end_char="1927">Flag</TOKEN>
+<TOKEN id="token-19-16" pos="punct" morph="none" start_char="1928" end_char="1928">,</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="1930" end_char="1932">and</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="1934" end_char="1936">the</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="1938" end_char="1943">school</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="1945" end_char="1947">was</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="1949" end_char="1953">spray</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="1955" end_char="1961">painted</TOKEN>
+<TOKEN id="token-19-23" pos="punct" morph="none" start_char="1962" end_char="1962">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1965" end_char="2038">
+<ORIGINAL_TEXT>"Spray painted ‘ISIS is comi’ on the side of the building," said Thompson.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="punct" morph="none" start_char="1965" end_char="1965">"</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1966" end_char="1970">Spray</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1972" end_char="1978">painted</TOKEN>
+<TOKEN id="token-20-3" pos="punct" morph="none" start_char="1980" end_char="1980">‘</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1981" end_char="1984">ISIS</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1986" end_char="1987">is</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1989" end_char="1992">comi</TOKEN>
+<TOKEN id="token-20-7" pos="punct" morph="none" start_char="1993" end_char="1993">’</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="1995" end_char="1996">on</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="1998" end_char="2000">the</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="2002" end_char="2005">side</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="2007" end_char="2008">of</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="2010" end_char="2012">the</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="2014" end_char="2021">building</TOKEN>
+<TOKEN id="token-20-14" pos="punct" morph="none" start_char="2022" end_char="2023">,"</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="2025" end_char="2028">said</TOKEN>
+<TOKEN id="token-20-16" pos="word" morph="none" start_char="2030" end_char="2037">Thompson</TOKEN>
+<TOKEN id="token-20-17" pos="punct" morph="none" start_char="2038" end_char="2038">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2040" end_char="2146">
+<ORIGINAL_TEXT>"This is the first time that something like this has ever happened in our community and it’s a huge relief.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="punct" morph="none" start_char="2040" end_char="2040">"</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2041" end_char="2044">This</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="2046" end_char="2047">is</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2049" end_char="2051">the</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2053" end_char="2057">first</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="2059" end_char="2062">time</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="2064" end_char="2067">that</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="2069" end_char="2077">something</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="2079" end_char="2082">like</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="2084" end_char="2087">this</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="2089" end_char="2091">has</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="2093" end_char="2096">ever</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="2098" end_char="2105">happened</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="2107" end_char="2108">in</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="2110" end_char="2112">our</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="2114" end_char="2122">community</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="2124" end_char="2126">and</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="2128" end_char="2131">it’s</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="2133" end_char="2133">a</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="2135" end_char="2138">huge</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="2140" end_char="2145">relief</TOKEN>
+<TOKEN id="token-21-21" pos="punct" morph="none" start_char="2146" end_char="2146">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2148" end_char="2214">
+<ORIGINAL_TEXT>People are relieved and glad that it’s been solved," said Thompson.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2148" end_char="2153">People</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="2155" end_char="2157">are</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="2159" end_char="2166">relieved</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="2168" end_char="2170">and</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="2172" end_char="2175">glad</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="2177" end_char="2180">that</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="2182" end_char="2185">it’s</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="2187" end_char="2190">been</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="2192" end_char="2197">solved</TOKEN>
+<TOKEN id="token-22-9" pos="punct" morph="none" start_char="2198" end_char="2199">,"</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="2201" end_char="2204">said</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="2206" end_char="2213">Thompson</TOKEN>
+<TOKEN id="token-22-12" pos="punct" morph="none" start_char="2214" end_char="2214">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2217" end_char="2306">
+<ORIGINAL_TEXT>Police say it was students who noticed smoke coming from the backpack and alerted faculty.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="2217" end_char="2222">Police</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="2224" end_char="2226">say</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="2228" end_char="2229">it</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="2231" end_char="2233">was</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="2235" end_char="2242">students</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="2244" end_char="2246">who</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="2248" end_char="2254">noticed</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="2256" end_char="2260">smoke</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="2262" end_char="2267">coming</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="2269" end_char="2272">from</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="2274" end_char="2276">the</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="2278" end_char="2285">backpack</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="2287" end_char="2289">and</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="2291" end_char="2297">alerted</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="2299" end_char="2305">faculty</TOKEN>
+<TOKEN id="token-23-15" pos="punct" morph="none" start_char="2306" end_char="2306">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2309" end_char="2406">
+<ORIGINAL_TEXT>The suspect has been charged with manufacturing and attempted use of a weapon of mass destruction.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="2309" end_char="2311">The</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="2313" end_char="2319">suspect</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="2321" end_char="2323">has</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="2325" end_char="2328">been</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="2330" end_char="2336">charged</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="2338" end_char="2341">with</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="2343" end_char="2355">manufacturing</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="2357" end_char="2359">and</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="2361" end_char="2369">attempted</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="2371" end_char="2373">use</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="2375" end_char="2376">of</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="2378" end_char="2378">a</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="2380" end_char="2385">weapon</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="2387" end_char="2388">of</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="2390" end_char="2393">mass</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="2395" end_char="2405">destruction</TOKEN>
+<TOKEN id="token-24-16" pos="punct" morph="none" start_char="2406" end_char="2406">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="2408" end_char="2470">
+<ORIGINAL_TEXT>More charges are pending from Hurricane City Police Department.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="2408" end_char="2411">More</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="2413" end_char="2419">charges</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="2421" end_char="2423">are</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="2425" end_char="2431">pending</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="2433" end_char="2436">from</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="2438" end_char="2446">Hurricane</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="2448" end_char="2451">City</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="2453" end_char="2458">Police</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="2460" end_char="2469">Department</TOKEN>
+<TOKEN id="token-25-9" pos="punct" morph="none" start_char="2470" end_char="2470">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="2473" end_char="2477">
+<ORIGINAL_TEXT>Video</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="2473" end_char="2477">Video</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2483" end_char="2487">
+<ORIGINAL_TEXT>Video</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="2483" end_char="2487">Video</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

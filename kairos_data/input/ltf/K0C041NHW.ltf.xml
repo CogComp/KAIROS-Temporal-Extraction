@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="K0C041NHW" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="832" raw_text_md5="9a3040eaa10d303725430d60d90607c4">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="66">
+<ORIGINAL_TEXT>Utah: Teen Arrested for Emplacing IED in High School and Vandalism</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="4">Utah</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="5" end_char="5">:</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="7" end_char="10">Teen</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="12" end_char="19">Arrested</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="21" end_char="23">for</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="25" end_char="33">Emplacing</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="35" end_char="37">IED</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="39" end_char="40">in</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="42" end_char="45">High</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="47" end_char="52">School</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="54" end_char="56">and</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="58" end_char="66">Vandalism</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="71" end_char="249">
+<ORIGINAL_TEXT>On 6 March 2018, officers from the Hurricane Police Department (HPD) arrested a juvenile for emplacing a homemade improvised explosive device (IED) at Pine View High School in St.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="71" end_char="72">On</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="74" end_char="74">6</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="76" end_char="80">March</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="82" end_char="85">2018</TOKEN>
+<TOKEN id="token-1-4" pos="punct" morph="none" start_char="86" end_char="86">,</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="88" end_char="95">officers</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="97" end_char="100">from</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="102" end_char="104">the</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="106" end_char="114">Hurricane</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="116" end_char="121">Police</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="123" end_char="132">Department</TOKEN>
+<TOKEN id="token-1-11" pos="punct" morph="none" start_char="134" end_char="134">(</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="135" end_char="137">HPD</TOKEN>
+<TOKEN id="token-1-13" pos="punct" morph="none" start_char="138" end_char="138">)</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="140" end_char="147">arrested</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="149" end_char="149">a</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="151" end_char="158">juvenile</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="160" end_char="162">for</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="164" end_char="172">emplacing</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="174" end_char="174">a</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="176" end_char="183">homemade</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="185" end_char="194">improvised</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="196" end_char="204">explosive</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="206" end_char="211">device</TOKEN>
+<TOKEN id="token-1-24" pos="punct" morph="none" start_char="213" end_char="213">(</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="214" end_char="216">IED</TOKEN>
+<TOKEN id="token-1-26" pos="punct" morph="none" start_char="217" end_char="217">)</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="219" end_char="220">at</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="222" end_char="225">Pine</TOKEN>
+<TOKEN id="token-1-29" pos="word" morph="none" start_char="227" end_char="230">View</TOKEN>
+<TOKEN id="token-1-30" pos="word" morph="none" start_char="232" end_char="235">High</TOKEN>
+<TOKEN id="token-1-31" pos="word" morph="none" start_char="237" end_char="242">School</TOKEN>
+<TOKEN id="token-1-32" pos="word" morph="none" start_char="244" end_char="245">in</TOKEN>
+<TOKEN id="token-1-33" pos="word" morph="none" start_char="247" end_char="248">St</TOKEN>
+<TOKEN id="token-1-34" pos="punct" morph="none" start_char="249" end_char="249">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="251" end_char="257">
+<ORIGINAL_TEXT>George.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="251" end_char="256">George</TOKEN>
+<TOKEN id="token-2-1" pos="punct" morph="none" start_char="257" end_char="257">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="259" end_char="305">
+<ORIGINAL_TEXT>HPD officers working with officers from the St.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="259" end_char="261">HPD</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="263" end_char="270">officers</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="272" end_char="278">working</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="280" end_char="283">with</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="285" end_char="292">officers</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="294" end_char="297">from</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="299" end_char="301">the</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="303" end_char="304">St</TOKEN>
+<TOKEN id="token-3-8" pos="punct" morph="none" start_char="305" end_char="305">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="307" end_char="561">
+<ORIGINAL_TEXT>George Police Department (SGPD) executed a search warrant and found bomb-making material inside the juvenile’s residence, and evidence that the boy was researching information and expressed interest in the ISIS terrorist group by promoting its propaganda.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="307" end_char="312">George</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="314" end_char="319">Police</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="321" end_char="330">Department</TOKEN>
+<TOKEN id="token-4-3" pos="punct" morph="none" start_char="332" end_char="332">(</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="333" end_char="336">SGPD</TOKEN>
+<TOKEN id="token-4-5" pos="punct" morph="none" start_char="337" end_char="337">)</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="339" end_char="346">executed</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="348" end_char="348">a</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="350" end_char="355">search</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="357" end_char="363">warrant</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="365" end_char="367">and</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="369" end_char="373">found</TOKEN>
+<TOKEN id="token-4-12" pos="unknown" morph="none" start_char="375" end_char="385">bomb-making</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="387" end_char="394">material</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="396" end_char="401">inside</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="403" end_char="405">the</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="407" end_char="416">juvenile’s</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="418" end_char="426">residence</TOKEN>
+<TOKEN id="token-4-18" pos="punct" morph="none" start_char="427" end_char="427">,</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="429" end_char="431">and</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="433" end_char="440">evidence</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="442" end_char="445">that</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="447" end_char="449">the</TOKEN>
+<TOKEN id="token-4-23" pos="word" morph="none" start_char="451" end_char="453">boy</TOKEN>
+<TOKEN id="token-4-24" pos="word" morph="none" start_char="455" end_char="457">was</TOKEN>
+<TOKEN id="token-4-25" pos="word" morph="none" start_char="459" end_char="469">researching</TOKEN>
+<TOKEN id="token-4-26" pos="word" morph="none" start_char="471" end_char="481">information</TOKEN>
+<TOKEN id="token-4-27" pos="word" morph="none" start_char="483" end_char="485">and</TOKEN>
+<TOKEN id="token-4-28" pos="word" morph="none" start_char="487" end_char="495">expressed</TOKEN>
+<TOKEN id="token-4-29" pos="word" morph="none" start_char="497" end_char="504">interest</TOKEN>
+<TOKEN id="token-4-30" pos="word" morph="none" start_char="506" end_char="507">in</TOKEN>
+<TOKEN id="token-4-31" pos="word" morph="none" start_char="509" end_char="511">the</TOKEN>
+<TOKEN id="token-4-32" pos="word" morph="none" start_char="513" end_char="516">ISIS</TOKEN>
+<TOKEN id="token-4-33" pos="word" morph="none" start_char="518" end_char="526">terrorist</TOKEN>
+<TOKEN id="token-4-34" pos="word" morph="none" start_char="528" end_char="532">group</TOKEN>
+<TOKEN id="token-4-35" pos="word" morph="none" start_char="534" end_char="535">by</TOKEN>
+<TOKEN id="token-4-36" pos="word" morph="none" start_char="537" end_char="545">promoting</TOKEN>
+<TOKEN id="token-4-37" pos="word" morph="none" start_char="547" end_char="549">its</TOKEN>
+<TOKEN id="token-4-38" pos="word" morph="none" start_char="551" end_char="560">propaganda</TOKEN>
+<TOKEN id="token-4-39" pos="punct" morph="none" start_char="561" end_char="561">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="563" end_char="799">
+<ORIGINAL_TEXT>According to the authorities, the suspect admitted to investigators that he was responsible for the vandalism of another school where he spray painted "ISIS is comi [sic]" on the building and replaced the American flag for the ISIS flag.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="563" end_char="571">According</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="573" end_char="574">to</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="576" end_char="578">the</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="580" end_char="590">authorities</TOKEN>
+<TOKEN id="token-5-4" pos="punct" morph="none" start_char="591" end_char="591">,</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="593" end_char="595">the</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="597" end_char="603">suspect</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="605" end_char="612">admitted</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="614" end_char="615">to</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="617" end_char="629">investigators</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="631" end_char="634">that</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="636" end_char="637">he</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="639" end_char="641">was</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="643" end_char="653">responsible</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="655" end_char="657">for</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="659" end_char="661">the</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="663" end_char="671">vandalism</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="673" end_char="674">of</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="676" end_char="682">another</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="684" end_char="689">school</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="691" end_char="695">where</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="697" end_char="698">he</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="700" end_char="704">spray</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="706" end_char="712">painted</TOKEN>
+<TOKEN id="token-5-24" pos="punct" morph="none" start_char="714" end_char="714">"</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="715" end_char="718">ISIS</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="720" end_char="721">is</TOKEN>
+<TOKEN id="token-5-27" pos="word" morph="none" start_char="723" end_char="726">comi</TOKEN>
+<TOKEN id="token-5-28" pos="punct" morph="none" start_char="728" end_char="728">[</TOKEN>
+<TOKEN id="token-5-29" pos="word" morph="none" start_char="729" end_char="731">sic</TOKEN>
+<TOKEN id="token-5-30" pos="punct" morph="none" start_char="732" end_char="733">]"</TOKEN>
+<TOKEN id="token-5-31" pos="word" morph="none" start_char="735" end_char="736">on</TOKEN>
+<TOKEN id="token-5-32" pos="word" morph="none" start_char="738" end_char="740">the</TOKEN>
+<TOKEN id="token-5-33" pos="word" morph="none" start_char="742" end_char="749">building</TOKEN>
+<TOKEN id="token-5-34" pos="word" morph="none" start_char="751" end_char="753">and</TOKEN>
+<TOKEN id="token-5-35" pos="word" morph="none" start_char="755" end_char="762">replaced</TOKEN>
+<TOKEN id="token-5-36" pos="word" morph="none" start_char="764" end_char="766">the</TOKEN>
+<TOKEN id="token-5-37" pos="word" morph="none" start_char="768" end_char="775">American</TOKEN>
+<TOKEN id="token-5-38" pos="word" morph="none" start_char="777" end_char="780">flag</TOKEN>
+<TOKEN id="token-5-39" pos="word" morph="none" start_char="782" end_char="784">for</TOKEN>
+<TOKEN id="token-5-40" pos="word" morph="none" start_char="786" end_char="788">the</TOKEN>
+<TOKEN id="token-5-41" pos="word" morph="none" start_char="790" end_char="793">ISIS</TOKEN>
+<TOKEN id="token-5-42" pos="word" morph="none" start_char="795" end_char="798">flag</TOKEN>
+<TOKEN id="token-5-43" pos="punct" morph="none" start_char="799" end_char="799">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="801" end_char="828">
+<ORIGINAL_TEXT>An investigation is ongoing.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="801" end_char="802">An</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="804" end_char="816">investigation</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="818" end_char="819">is</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="821" end_char="827">ongoing</TOKEN>
+<TOKEN id="token-6-4" pos="punct" morph="none" start_char="828" end_char="828">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

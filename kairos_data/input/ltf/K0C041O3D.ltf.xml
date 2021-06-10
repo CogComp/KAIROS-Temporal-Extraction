@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="K0C041O3D" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="3389" raw_text_md5="225b794331f33c31a518d82fbe543371">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="100">
+<ORIGINAL_TEXT>DJI responds to drone attacks: “We have limited ability to control what people do with our products”</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="3">DJI</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="5" end_char="12">responds</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="14" end_char="15">to</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="17" end_char="21">drone</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="23" end_char="29">attacks</TOKEN>
+<TOKEN id="token-0-5" pos="punct" morph="none" start_char="30" end_char="30">:</TOKEN>
+<TOKEN id="token-0-6" pos="punct" morph="none" start_char="32" end_char="32">“</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="33" end_char="34">We</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="36" end_char="39">have</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="41" end_char="47">limited</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="49" end_char="55">ability</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="57" end_char="58">to</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="60" end_char="66">control</TOKEN>
+<TOKEN id="token-0-13" pos="word" morph="none" start_char="68" end_char="71">what</TOKEN>
+<TOKEN id="token-0-14" pos="word" morph="none" start_char="73" end_char="78">people</TOKEN>
+<TOKEN id="token-0-15" pos="word" morph="none" start_char="80" end_char="81">do</TOKEN>
+<TOKEN id="token-0-16" pos="word" morph="none" start_char="83" end_char="86">with</TOKEN>
+<TOKEN id="token-0-17" pos="word" morph="none" start_char="88" end_char="90">our</TOKEN>
+<TOKEN id="token-0-18" pos="word" morph="none" start_char="92" end_char="99">products</TOKEN>
+<TOKEN id="token-0-19" pos="punct" morph="none" start_char="100" end_char="100">”</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="105" end_char="321">
+<ORIGINAL_TEXT>The world’s largest drone manufacturer, DJI, has issued a statement after two of their drones armed with explosives were used in an apparent assassination attempt against Venezuelan president Nicolás Maduro last week.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="105" end_char="107">The</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="109" end_char="115">world’s</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="117" end_char="123">largest</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="125" end_char="129">drone</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="131" end_char="142">manufacturer</TOKEN>
+<TOKEN id="token-1-5" pos="punct" morph="none" start_char="143" end_char="143">,</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="145" end_char="147">DJI</TOKEN>
+<TOKEN id="token-1-7" pos="punct" morph="none" start_char="148" end_char="148">,</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="150" end_char="152">has</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="154" end_char="159">issued</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="161" end_char="161">a</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="163" end_char="171">statement</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="173" end_char="177">after</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="179" end_char="181">two</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="183" end_char="184">of</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="186" end_char="190">their</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="192" end_char="197">drones</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="199" end_char="203">armed</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="205" end_char="208">with</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="210" end_char="219">explosives</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="221" end_char="224">were</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="226" end_char="229">used</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="231" end_char="232">in</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="234" end_char="235">an</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="237" end_char="244">apparent</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="246" end_char="258">assassination</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="260" end_char="266">attempt</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="268" end_char="274">against</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="276" end_char="285">Venezuelan</TOKEN>
+<TOKEN id="token-1-29" pos="word" morph="none" start_char="287" end_char="295">president</TOKEN>
+<TOKEN id="token-1-30" pos="word" morph="none" start_char="297" end_char="303">Nicolás</TOKEN>
+<TOKEN id="token-1-31" pos="word" morph="none" start_char="305" end_char="310">Maduro</TOKEN>
+<TOKEN id="token-1-32" pos="word" morph="none" start_char="312" end_char="315">last</TOKEN>
+<TOKEN id="token-1-33" pos="word" morph="none" start_char="317" end_char="320">week</TOKEN>
+<TOKEN id="token-1-34" pos="punct" morph="none" start_char="321" end_char="321">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="324" end_char="459">
+<ORIGINAL_TEXT>The drones in question appeared to be Matrice 600s; commercial-level UAVs intended for aerial photography and costing around $5000 each.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="324" end_char="326">The</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="328" end_char="333">drones</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="335" end_char="336">in</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="338" end_char="345">question</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="347" end_char="354">appeared</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="356" end_char="357">to</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="359" end_char="360">be</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="362" end_char="368">Matrice</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="370" end_char="373">600s</TOKEN>
+<TOKEN id="token-2-9" pos="punct" morph="none" start_char="374" end_char="374">;</TOKEN>
+<TOKEN id="token-2-10" pos="unknown" morph="none" start_char="376" end_char="391">commercial-level</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="393" end_char="396">UAVs</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="398" end_char="405">intended</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="407" end_char="409">for</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="411" end_char="416">aerial</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="418" end_char="428">photography</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="430" end_char="432">and</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="434" end_char="440">costing</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="442" end_char="447">around</TOKEN>
+<TOKEN id="token-2-19" pos="unknown" morph="none" start_char="449" end_char="453">$5000</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="455" end_char="458">each</TOKEN>
+<TOKEN id="token-2-21" pos="punct" morph="none" start_char="459" end_char="459">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="461" end_char="622">
+<ORIGINAL_TEXT>The Venezuelan government claims that each Matrice was packed with a kilo of C4 and were intended to kill Maduro and other important Venezuelan political figures.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="461" end_char="463">The</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="465" end_char="474">Venezuelan</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="476" end_char="485">government</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="487" end_char="492">claims</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="494" end_char="497">that</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="499" end_char="502">each</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="504" end_char="510">Matrice</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="512" end_char="514">was</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="516" end_char="521">packed</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="523" end_char="526">with</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="528" end_char="528">a</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="530" end_char="533">kilo</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="535" end_char="536">of</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="538" end_char="539">C4</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="541" end_char="543">and</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="545" end_char="548">were</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="550" end_char="557">intended</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="559" end_char="560">to</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="562" end_char="565">kill</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="567" end_char="572">Maduro</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="574" end_char="576">and</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="578" end_char="582">other</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="584" end_char="592">important</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="594" end_char="603">Venezuelan</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="605" end_char="613">political</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="615" end_char="621">figures</TOKEN>
+<TOKEN id="token-3-26" pos="punct" morph="none" start_char="622" end_char="622">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="625" end_char="713">
+<ORIGINAL_TEXT>https://www.wetalkuav.com/wp-content/uploads/2018/08/1024x576_MP4_4439375926361635711.mp4</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="url" morph="none" start_char="625" end_char="713">https://www.wetalkuav.com/wp-content/uploads/2018/08/1024x576_MP4_4439375926361635711.mp4</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="717" end_char="770">
+<ORIGINAL_TEXT>A video of the drone exploding from media at the event</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="717" end_char="717">A</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="719" end_char="723">video</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="725" end_char="726">of</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="728" end_char="730">the</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="732" end_char="736">drone</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="738" end_char="746">exploding</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="748" end_char="751">from</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="753" end_char="757">media</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="759" end_char="760">at</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="762" end_char="764">the</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="766" end_char="770">event</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="773" end_char="872">
+<ORIGINAL_TEXT>DJI spoke with Dezeen magazine and told them that "DJI makes products purely for peaceful purposes."</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="773" end_char="775">DJI</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="777" end_char="781">spoke</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="783" end_char="786">with</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="788" end_char="793">Dezeen</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="795" end_char="802">magazine</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="804" end_char="806">and</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="808" end_char="811">told</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="813" end_char="816">them</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="818" end_char="821">that</TOKEN>
+<TOKEN id="token-6-9" pos="punct" morph="none" start_char="823" end_char="823">"</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="824" end_char="826">DJI</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="828" end_char="832">makes</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="834" end_char="841">products</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="843" end_char="848">purely</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="850" end_char="852">for</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="854" end_char="861">peaceful</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="863" end_char="870">purposes</TOKEN>
+<TOKEN id="token-6-17" pos="punct" morph="none" start_char="871" end_char="872">."</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="875" end_char="1012">
+<ORIGINAL_TEXT>"While we build some prudent safety and security features into our products, we have limited ability to control what people do with them."</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="punct" morph="none" start_char="875" end_char="875">"</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="876" end_char="880">While</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="882" end_char="883">we</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="885" end_char="889">build</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="891" end_char="894">some</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="896" end_char="902">prudent</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="904" end_char="909">safety</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="911" end_char="913">and</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="915" end_char="922">security</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="924" end_char="931">features</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="933" end_char="936">into</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="938" end_char="940">our</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="942" end_char="949">products</TOKEN>
+<TOKEN id="token-7-13" pos="punct" morph="none" start_char="950" end_char="950">,</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="952" end_char="953">we</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="955" end_char="958">have</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="960" end_char="966">limited</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="968" end_char="974">ability</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="976" end_char="977">to</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="979" end_char="985">control</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="987" end_char="990">what</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="992" end_char="997">people</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="999" end_char="1000">do</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="1002" end_char="1005">with</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="1007" end_char="1010">them</TOKEN>
+<TOKEN id="token-7-25" pos="punct" morph="none" start_char="1011" end_char="1012">."</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1015" end_char="1176">
+<ORIGINAL_TEXT>They stated that the overwhelming majority of DJI drone operators use their drones peacefully, and they "deplore any use of our products to bring harm to anyone."</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1015" end_char="1018">They</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1020" end_char="1025">stated</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1027" end_char="1030">that</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1032" end_char="1034">the</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1036" end_char="1047">overwhelming</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1049" end_char="1056">majority</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1058" end_char="1059">of</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1061" end_char="1063">DJI</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1065" end_char="1069">drone</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1071" end_char="1079">operators</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1081" end_char="1083">use</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1085" end_char="1089">their</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1091" end_char="1096">drones</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1098" end_char="1107">peacefully</TOKEN>
+<TOKEN id="token-8-14" pos="punct" morph="none" start_char="1108" end_char="1108">,</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1110" end_char="1112">and</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1114" end_char="1117">they</TOKEN>
+<TOKEN id="token-8-17" pos="punct" morph="none" start_char="1119" end_char="1119">"</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1120" end_char="1126">deplore</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1128" end_char="1130">any</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1132" end_char="1134">use</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1136" end_char="1137">of</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1139" end_char="1141">our</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1143" end_char="1150">products</TOKEN>
+<TOKEN id="token-8-24" pos="word" morph="none" start_char="1152" end_char="1153">to</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1155" end_char="1159">bring</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="1161" end_char="1164">harm</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="1166" end_char="1167">to</TOKEN>
+<TOKEN id="token-8-28" pos="word" morph="none" start_char="1169" end_char="1174">anyone</TOKEN>
+<TOKEN id="token-8-29" pos="punct" morph="none" start_char="1175" end_char="1176">."</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1179" end_char="1313">
+<ORIGINAL_TEXT>"As with any technology, if people decide to misuse our products in any way, they have to be responsible for their actions," they said.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="punct" morph="none" start_char="1179" end_char="1179">"</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1180" end_char="1181">As</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1183" end_char="1186">with</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1188" end_char="1190">any</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1192" end_char="1201">technology</TOKEN>
+<TOKEN id="token-9-5" pos="punct" morph="none" start_char="1202" end_char="1202">,</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1204" end_char="1205">if</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1207" end_char="1212">people</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1214" end_char="1219">decide</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1221" end_char="1222">to</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1224" end_char="1229">misuse</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1231" end_char="1233">our</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1235" end_char="1242">products</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1244" end_char="1245">in</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1247" end_char="1249">any</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1251" end_char="1253">way</TOKEN>
+<TOKEN id="token-9-16" pos="punct" morph="none" start_char="1254" end_char="1254">,</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1256" end_char="1259">they</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="1261" end_char="1264">have</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="1266" end_char="1267">to</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="1269" end_char="1270">be</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="1272" end_char="1282">responsible</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="1284" end_char="1286">for</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="1288" end_char="1292">their</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="1294" end_char="1300">actions</TOKEN>
+<TOKEN id="token-9-25" pos="punct" morph="none" start_char="1301" end_char="1302">,"</TOKEN>
+<TOKEN id="token-9-26" pos="word" morph="none" start_char="1304" end_char="1307">they</TOKEN>
+<TOKEN id="token-9-27" pos="word" morph="none" start_char="1309" end_char="1312">said</TOKEN>
+<TOKEN id="token-9-28" pos="punct" morph="none" start_char="1313" end_char="1313">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1316" end_char="1426">
+<ORIGINAL_TEXT>Two DJI Matrice 600’s were seemingly used in an attack against President Nicolás Maduro in Venezuela last week.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1316" end_char="1318">Two</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1320" end_char="1322">DJI</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1324" end_char="1330">Matrice</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1332" end_char="1336">600’s</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1338" end_char="1341">were</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1343" end_char="1351">seemingly</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1353" end_char="1356">used</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1358" end_char="1359">in</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1361" end_char="1362">an</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1364" end_char="1369">attack</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1371" end_char="1377">against</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1379" end_char="1387">President</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1389" end_char="1395">Nicolás</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1397" end_char="1402">Maduro</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1404" end_char="1405">in</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1407" end_char="1415">Venezuela</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1417" end_char="1420">last</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1422" end_char="1425">week</TOKEN>
+<TOKEN id="token-10-18" pos="punct" morph="none" start_char="1426" end_char="1426">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1430" end_char="1493">
+<ORIGINAL_TEXT>Who was responsible for the drone attacks and why did they fail?</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1430" end_char="1432">Who</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1434" end_char="1436">was</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1438" end_char="1448">responsible</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1450" end_char="1452">for</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1454" end_char="1456">the</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1458" end_char="1462">drone</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1464" end_char="1470">attacks</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1472" end_char="1474">and</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1476" end_char="1478">why</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1480" end_char="1482">did</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1484" end_char="1487">they</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1489" end_char="1492">fail</TOKEN>
+<TOKEN id="token-11-12" pos="punct" morph="none" start_char="1493" end_char="1493">?</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1497" end_char="1562">
+<ORIGINAL_TEXT>It is, as yet, unclear who exactly was reponsible for the attacks.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1497" end_char="1498">It</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1500" end_char="1501">is</TOKEN>
+<TOKEN id="token-12-2" pos="punct" morph="none" start_char="1502" end_char="1502">,</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1504" end_char="1505">as</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1507" end_char="1509">yet</TOKEN>
+<TOKEN id="token-12-5" pos="punct" morph="none" start_char="1510" end_char="1510">,</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1512" end_char="1518">unclear</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1520" end_char="1522">who</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1524" end_char="1530">exactly</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1532" end_char="1534">was</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1536" end_char="1545">reponsible</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1547" end_char="1549">for</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1551" end_char="1553">the</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1555" end_char="1561">attacks</TOKEN>
+<TOKEN id="token-12-14" pos="punct" morph="none" start_char="1562" end_char="1562">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1564" end_char="1649">
+<ORIGINAL_TEXT>One group calling themselves ‘Soldiers in T-shirts‘ claimed responsibility on Twitter.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1564" end_char="1566">One</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1568" end_char="1572">group</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1574" end_char="1580">calling</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1582" end_char="1591">themselves</TOKEN>
+<TOKEN id="token-13-4" pos="punct" morph="none" start_char="1593" end_char="1593">‘</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1594" end_char="1601">Soldiers</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1603" end_char="1604">in</TOKEN>
+<TOKEN id="token-13-7" pos="unknown" morph="none" start_char="1606" end_char="1613">T-shirts</TOKEN>
+<TOKEN id="token-13-8" pos="punct" morph="none" start_char="1614" end_char="1614">‘</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1616" end_char="1622">claimed</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1624" end_char="1637">responsibility</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1639" end_char="1640">on</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1642" end_char="1648">Twitter</TOKEN>
+<TOKEN id="token-13-13" pos="punct" morph="none" start_char="1649" end_char="1649">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1651" end_char="1816">
+<ORIGINAL_TEXT>Maduro alleged Venezuela’s ultra-right in alliance with Colombia’s ultra-right and their outgoing president, Juan Manuel Santos were behind the assassination attempt.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1651" end_char="1656">Maduro</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1658" end_char="1664">alleged</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1666" end_char="1676">Venezuela’s</TOKEN>
+<TOKEN id="token-14-3" pos="unknown" morph="none" start_char="1678" end_char="1688">ultra-right</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1690" end_char="1691">in</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1693" end_char="1700">alliance</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1702" end_char="1705">with</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1707" end_char="1716">Colombia’s</TOKEN>
+<TOKEN id="token-14-8" pos="unknown" morph="none" start_char="1718" end_char="1728">ultra-right</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1730" end_char="1732">and</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1734" end_char="1738">their</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1740" end_char="1747">outgoing</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1749" end_char="1757">president</TOKEN>
+<TOKEN id="token-14-13" pos="punct" morph="none" start_char="1758" end_char="1758">,</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1760" end_char="1763">Juan</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1765" end_char="1770">Manuel</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="1772" end_char="1777">Santos</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="1779" end_char="1782">were</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="1784" end_char="1789">behind</TOKEN>
+<TOKEN id="token-14-19" pos="word" morph="none" start_char="1791" end_char="1793">the</TOKEN>
+<TOKEN id="token-14-20" pos="word" morph="none" start_char="1795" end_char="1807">assassination</TOKEN>
+<TOKEN id="token-14-21" pos="word" morph="none" start_char="1809" end_char="1815">attempt</TOKEN>
+<TOKEN id="token-14-22" pos="punct" morph="none" start_char="1816" end_char="1816">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1818" end_char="1964">
+<ORIGINAL_TEXT>The Venezuelan government has used the attacks as justification for a further crackdown on political opponents and have arrested at least 6 people.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1818" end_char="1820">The</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1822" end_char="1831">Venezuelan</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1833" end_char="1842">government</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1844" end_char="1846">has</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1848" end_char="1851">used</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1853" end_char="1855">the</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1857" end_char="1863">attacks</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1865" end_char="1866">as</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1868" end_char="1880">justification</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1882" end_char="1884">for</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="1886" end_char="1886">a</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1888" end_char="1894">further</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1896" end_char="1904">crackdown</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="1906" end_char="1907">on</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="1909" end_char="1917">political</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="1919" end_char="1927">opponents</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="1929" end_char="1931">and</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="1933" end_char="1936">have</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="1938" end_char="1945">arrested</TOKEN>
+<TOKEN id="token-15-19" pos="word" morph="none" start_char="1947" end_char="1948">at</TOKEN>
+<TOKEN id="token-15-20" pos="word" morph="none" start_char="1950" end_char="1954">least</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="1956" end_char="1956">6</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="1958" end_char="1963">people</TOKEN>
+<TOKEN id="token-15-23" pos="punct" morph="none" start_char="1964" end_char="1964">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1967" end_char="2025">
+<ORIGINAL_TEXT>Neither drone ultimately made it to their intended targets.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1967" end_char="1973">Neither</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1975" end_char="1979">drone</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1981" end_char="1990">ultimately</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1992" end_char="1995">made</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1997" end_char="1998">it</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2000" end_char="2001">to</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2003" end_char="2007">their</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2009" end_char="2016">intended</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="2018" end_char="2024">targets</TOKEN>
+<TOKEN id="token-16-9" pos="punct" morph="none" start_char="2025" end_char="2025">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2027" end_char="2291">
+<ORIGINAL_TEXT>According to Venezuela’s Attorney General, this was because they were deflected from reaching their intended course through protective radio emissions eminating from Venzuelan intelligence personnel (similar to drone killing devices we’ve written about previously).</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2027" end_char="2035">According</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2037" end_char="2038">to</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2040" end_char="2050">Venezuela’s</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2052" end_char="2059">Attorney</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2061" end_char="2067">General</TOKEN>
+<TOKEN id="token-17-5" pos="punct" morph="none" start_char="2068" end_char="2068">,</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2070" end_char="2073">this</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2075" end_char="2077">was</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2079" end_char="2085">because</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2087" end_char="2090">they</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2092" end_char="2095">were</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2097" end_char="2105">deflected</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2107" end_char="2110">from</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2112" end_char="2119">reaching</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="2121" end_char="2125">their</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="2127" end_char="2134">intended</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="2136" end_char="2141">course</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="2143" end_char="2149">through</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="2151" end_char="2160">protective</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="2162" end_char="2166">radio</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="2168" end_char="2176">emissions</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="2178" end_char="2186">eminating</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="2188" end_char="2191">from</TOKEN>
+<TOKEN id="token-17-23" pos="word" morph="none" start_char="2193" end_char="2201">Venzuelan</TOKEN>
+<TOKEN id="token-17-24" pos="word" morph="none" start_char="2203" end_char="2214">intelligence</TOKEN>
+<TOKEN id="token-17-25" pos="word" morph="none" start_char="2216" end_char="2224">personnel</TOKEN>
+<TOKEN id="token-17-26" pos="punct" morph="none" start_char="2226" end_char="2226">(</TOKEN>
+<TOKEN id="token-17-27" pos="word" morph="none" start_char="2227" end_char="2233">similar</TOKEN>
+<TOKEN id="token-17-28" pos="word" morph="none" start_char="2235" end_char="2236">to</TOKEN>
+<TOKEN id="token-17-29" pos="word" morph="none" start_char="2238" end_char="2242">drone</TOKEN>
+<TOKEN id="token-17-30" pos="word" morph="none" start_char="2244" end_char="2250">killing</TOKEN>
+<TOKEN id="token-17-31" pos="word" morph="none" start_char="2252" end_char="2258">devices</TOKEN>
+<TOKEN id="token-17-32" pos="word" morph="none" start_char="2260" end_char="2264">we’ve</TOKEN>
+<TOKEN id="token-17-33" pos="word" morph="none" start_char="2266" end_char="2272">written</TOKEN>
+<TOKEN id="token-17-34" pos="word" morph="none" start_char="2274" end_char="2278">about</TOKEN>
+<TOKEN id="token-17-35" pos="word" morph="none" start_char="2280" end_char="2289">previously</TOKEN>
+<TOKEN id="token-17-36" pos="punct" morph="none" start_char="2290" end_char="2291">).</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2293" end_char="2596">
+<ORIGINAL_TEXT>Video footage from multiple angles since the attack suggest that one drone exploded above the soldiers on parade (causing 7 injuries) while the other crashed into the window of an apartment, causing the apartment to catch fire (this was initially reported in some outlets as the result of gas explosion).</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2293" end_char="2297">Video</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2299" end_char="2305">footage</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2307" end_char="2310">from</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2312" end_char="2319">multiple</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2321" end_char="2326">angles</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2328" end_char="2332">since</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2334" end_char="2336">the</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="2338" end_char="2343">attack</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="2345" end_char="2351">suggest</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="2353" end_char="2356">that</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="2358" end_char="2360">one</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="2362" end_char="2366">drone</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2368" end_char="2375">exploded</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2377" end_char="2381">above</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2383" end_char="2385">the</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="2387" end_char="2394">soldiers</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="2396" end_char="2397">on</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="2399" end_char="2404">parade</TOKEN>
+<TOKEN id="token-18-18" pos="punct" morph="none" start_char="2406" end_char="2406">(</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="2407" end_char="2413">causing</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="2415" end_char="2415">7</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="2417" end_char="2424">injuries</TOKEN>
+<TOKEN id="token-18-22" pos="punct" morph="none" start_char="2425" end_char="2425">)</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="2427" end_char="2431">while</TOKEN>
+<TOKEN id="token-18-24" pos="word" morph="none" start_char="2433" end_char="2435">the</TOKEN>
+<TOKEN id="token-18-25" pos="word" morph="none" start_char="2437" end_char="2441">other</TOKEN>
+<TOKEN id="token-18-26" pos="word" morph="none" start_char="2443" end_char="2449">crashed</TOKEN>
+<TOKEN id="token-18-27" pos="word" morph="none" start_char="2451" end_char="2454">into</TOKEN>
+<TOKEN id="token-18-28" pos="word" morph="none" start_char="2456" end_char="2458">the</TOKEN>
+<TOKEN id="token-18-29" pos="word" morph="none" start_char="2460" end_char="2465">window</TOKEN>
+<TOKEN id="token-18-30" pos="word" morph="none" start_char="2467" end_char="2468">of</TOKEN>
+<TOKEN id="token-18-31" pos="word" morph="none" start_char="2470" end_char="2471">an</TOKEN>
+<TOKEN id="token-18-32" pos="word" morph="none" start_char="2473" end_char="2481">apartment</TOKEN>
+<TOKEN id="token-18-33" pos="punct" morph="none" start_char="2482" end_char="2482">,</TOKEN>
+<TOKEN id="token-18-34" pos="word" morph="none" start_char="2484" end_char="2490">causing</TOKEN>
+<TOKEN id="token-18-35" pos="word" morph="none" start_char="2492" end_char="2494">the</TOKEN>
+<TOKEN id="token-18-36" pos="word" morph="none" start_char="2496" end_char="2504">apartment</TOKEN>
+<TOKEN id="token-18-37" pos="word" morph="none" start_char="2506" end_char="2507">to</TOKEN>
+<TOKEN id="token-18-38" pos="word" morph="none" start_char="2509" end_char="2513">catch</TOKEN>
+<TOKEN id="token-18-39" pos="word" morph="none" start_char="2515" end_char="2518">fire</TOKEN>
+<TOKEN id="token-18-40" pos="punct" morph="none" start_char="2520" end_char="2520">(</TOKEN>
+<TOKEN id="token-18-41" pos="word" morph="none" start_char="2521" end_char="2524">this</TOKEN>
+<TOKEN id="token-18-42" pos="word" morph="none" start_char="2526" end_char="2528">was</TOKEN>
+<TOKEN id="token-18-43" pos="word" morph="none" start_char="2530" end_char="2538">initially</TOKEN>
+<TOKEN id="token-18-44" pos="word" morph="none" start_char="2540" end_char="2547">reported</TOKEN>
+<TOKEN id="token-18-45" pos="word" morph="none" start_char="2549" end_char="2550">in</TOKEN>
+<TOKEN id="token-18-46" pos="word" morph="none" start_char="2552" end_char="2555">some</TOKEN>
+<TOKEN id="token-18-47" pos="word" morph="none" start_char="2557" end_char="2563">outlets</TOKEN>
+<TOKEN id="token-18-48" pos="word" morph="none" start_char="2565" end_char="2566">as</TOKEN>
+<TOKEN id="token-18-49" pos="word" morph="none" start_char="2568" end_char="2570">the</TOKEN>
+<TOKEN id="token-18-50" pos="word" morph="none" start_char="2572" end_char="2577">result</TOKEN>
+<TOKEN id="token-18-51" pos="word" morph="none" start_char="2579" end_char="2580">of</TOKEN>
+<TOKEN id="token-18-52" pos="word" morph="none" start_char="2582" end_char="2584">gas</TOKEN>
+<TOKEN id="token-18-53" pos="word" morph="none" start_char="2586" end_char="2594">explosion</TOKEN>
+<TOKEN id="token-18-54" pos="punct" morph="none" start_char="2595" end_char="2596">).</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2598" end_char="2767">
+<ORIGINAL_TEXT>The website Bellingcat has an excellent rundown of all evidence related to the drone attack including video footage and photos from multiple angles, if you’re interested.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="2598" end_char="2600">The</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="2602" end_char="2608">website</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="2610" end_char="2619">Bellingcat</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="2621" end_char="2623">has</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="2625" end_char="2626">an</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="2628" end_char="2636">excellent</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="2638" end_char="2644">rundown</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="2646" end_char="2647">of</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="2649" end_char="2651">all</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="2653" end_char="2660">evidence</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="2662" end_char="2668">related</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="2670" end_char="2671">to</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="2673" end_char="2675">the</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="2677" end_char="2681">drone</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="2683" end_char="2688">attack</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="2690" end_char="2698">including</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="2700" end_char="2704">video</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="2706" end_char="2712">footage</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="2714" end_char="2716">and</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="2718" end_char="2723">photos</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="2725" end_char="2728">from</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="2730" end_char="2737">multiple</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="2739" end_char="2744">angles</TOKEN>
+<TOKEN id="token-19-23" pos="punct" morph="none" start_char="2745" end_char="2745">,</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="2747" end_char="2748">if</TOKEN>
+<TOKEN id="token-19-25" pos="word" morph="none" start_char="2750" end_char="2755">you’re</TOKEN>
+<TOKEN id="token-19-26" pos="word" morph="none" start_char="2757" end_char="2766">interested</TOKEN>
+<TOKEN id="token-19-27" pos="punct" morph="none" start_char="2767" end_char="2767">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2770" end_char="2872">
+<ORIGINAL_TEXT>A soldier injured by the exploding drone at the Venezualan National Guard celebration parade in Caracas</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2770" end_char="2770">A</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2772" end_char="2778">soldier</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="2780" end_char="2786">injured</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2788" end_char="2789">by</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2791" end_char="2793">the</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2795" end_char="2803">exploding</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="2805" end_char="2809">drone</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="2811" end_char="2812">at</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="2814" end_char="2816">the</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="2818" end_char="2827">Venezualan</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="2829" end_char="2836">National</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="2838" end_char="2842">Guard</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="2844" end_char="2854">celebration</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="2856" end_char="2861">parade</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="2863" end_char="2864">in</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="2866" end_char="2872">Caracas</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2876" end_char="2975">
+<ORIGINAL_TEXT>Despite some claims in media, it seems unlikely the government would stage an attack against itself.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2876" end_char="2882">Despite</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2884" end_char="2887">some</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="2889" end_char="2894">claims</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2896" end_char="2897">in</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2899" end_char="2903">media</TOKEN>
+<TOKEN id="token-21-5" pos="punct" morph="none" start_char="2904" end_char="2904">,</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="2906" end_char="2907">it</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="2909" end_char="2913">seems</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="2915" end_char="2922">unlikely</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="2924" end_char="2926">the</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="2928" end_char="2937">government</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="2939" end_char="2943">would</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="2945" end_char="2949">stage</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="2951" end_char="2952">an</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="2954" end_char="2959">attack</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="2961" end_char="2967">against</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="2969" end_char="2974">itself</TOKEN>
+<TOKEN id="token-21-17" pos="punct" morph="none" start_char="2975" end_char="2975">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2977" end_char="3190">
+<ORIGINAL_TEXT>As the Economist noted, "Dictators depend on projecting an image of omnipotence… in the television footage, Mr Maduro looked befuddled; the massed ranks of the National Guard broke discipline and ran off in panic."</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2977" end_char="2978">As</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="2980" end_char="2982">the</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="2984" end_char="2992">Economist</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="2994" end_char="2998">noted</TOKEN>
+<TOKEN id="token-22-4" pos="punct" morph="none" start_char="2999" end_char="2999">,</TOKEN>
+<TOKEN id="token-22-5" pos="punct" morph="none" start_char="3001" end_char="3001">"</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="3002" end_char="3010">Dictators</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="3012" end_char="3017">depend</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="3019" end_char="3020">on</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="3022" end_char="3031">projecting</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="3033" end_char="3034">an</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="3036" end_char="3040">image</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="3042" end_char="3043">of</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="3045" end_char="3055">omnipotence</TOKEN>
+<TOKEN id="token-22-14" pos="punct" morph="none" start_char="3056" end_char="3056">…</TOKEN>
+<TOKEN id="token-22-15" pos="word" morph="none" start_char="3058" end_char="3059">in</TOKEN>
+<TOKEN id="token-22-16" pos="word" morph="none" start_char="3061" end_char="3063">the</TOKEN>
+<TOKEN id="token-22-17" pos="word" morph="none" start_char="3065" end_char="3074">television</TOKEN>
+<TOKEN id="token-22-18" pos="word" morph="none" start_char="3076" end_char="3082">footage</TOKEN>
+<TOKEN id="token-22-19" pos="punct" morph="none" start_char="3083" end_char="3083">,</TOKEN>
+<TOKEN id="token-22-20" pos="word" morph="none" start_char="3085" end_char="3086">Mr</TOKEN>
+<TOKEN id="token-22-21" pos="word" morph="none" start_char="3088" end_char="3093">Maduro</TOKEN>
+<TOKEN id="token-22-22" pos="word" morph="none" start_char="3095" end_char="3100">looked</TOKEN>
+<TOKEN id="token-22-23" pos="word" morph="none" start_char="3102" end_char="3110">befuddled</TOKEN>
+<TOKEN id="token-22-24" pos="punct" morph="none" start_char="3111" end_char="3111">;</TOKEN>
+<TOKEN id="token-22-25" pos="word" morph="none" start_char="3113" end_char="3115">the</TOKEN>
+<TOKEN id="token-22-26" pos="word" morph="none" start_char="3117" end_char="3122">massed</TOKEN>
+<TOKEN id="token-22-27" pos="word" morph="none" start_char="3124" end_char="3128">ranks</TOKEN>
+<TOKEN id="token-22-28" pos="word" morph="none" start_char="3130" end_char="3131">of</TOKEN>
+<TOKEN id="token-22-29" pos="word" morph="none" start_char="3133" end_char="3135">the</TOKEN>
+<TOKEN id="token-22-30" pos="word" morph="none" start_char="3137" end_char="3144">National</TOKEN>
+<TOKEN id="token-22-31" pos="word" morph="none" start_char="3146" end_char="3150">Guard</TOKEN>
+<TOKEN id="token-22-32" pos="word" morph="none" start_char="3152" end_char="3156">broke</TOKEN>
+<TOKEN id="token-22-33" pos="word" morph="none" start_char="3158" end_char="3167">discipline</TOKEN>
+<TOKEN id="token-22-34" pos="word" morph="none" start_char="3169" end_char="3171">and</TOKEN>
+<TOKEN id="token-22-35" pos="word" morph="none" start_char="3173" end_char="3175">ran</TOKEN>
+<TOKEN id="token-22-36" pos="word" morph="none" start_char="3177" end_char="3179">off</TOKEN>
+<TOKEN id="token-22-37" pos="word" morph="none" start_char="3181" end_char="3182">in</TOKEN>
+<TOKEN id="token-22-38" pos="word" morph="none" start_char="3184" end_char="3188">panic</TOKEN>
+<TOKEN id="token-22-39" pos="punct" morph="none" start_char="3189" end_char="3190">."</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="3192" end_char="3249">
+<ORIGINAL_TEXT>In essence, the attacks made Maduro look weak, not strong.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="3192" end_char="3193">In</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="3195" end_char="3201">essence</TOKEN>
+<TOKEN id="token-23-2" pos="punct" morph="none" start_char="3202" end_char="3202">,</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="3204" end_char="3206">the</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="3208" end_char="3214">attacks</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="3216" end_char="3219">made</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="3221" end_char="3226">Maduro</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="3228" end_char="3231">look</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="3233" end_char="3236">weak</TOKEN>
+<TOKEN id="token-23-9" pos="punct" morph="none" start_char="3237" end_char="3237">,</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="3239" end_char="3241">not</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="3243" end_char="3248">strong</TOKEN>
+<TOKEN id="token-23-12" pos="punct" morph="none" start_char="3249" end_char="3249">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="3251" end_char="3358">
+<ORIGINAL_TEXT>False flag operations have happened throughout history but thus far, this does not appear to be one of them.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="3251" end_char="3255">False</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="3257" end_char="3260">flag</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="3262" end_char="3271">operations</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="3273" end_char="3276">have</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="3278" end_char="3285">happened</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="3287" end_char="3296">throughout</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="3298" end_char="3304">history</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="3306" end_char="3308">but</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="3310" end_char="3313">thus</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="3315" end_char="3317">far</TOKEN>
+<TOKEN id="token-24-10" pos="punct" morph="none" start_char="3318" end_char="3318">,</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="3320" end_char="3323">this</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="3325" end_char="3328">does</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="3330" end_char="3332">not</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="3334" end_char="3339">appear</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="3341" end_char="3342">to</TOKEN>
+<TOKEN id="token-24-16" pos="word" morph="none" start_char="3344" end_char="3345">be</TOKEN>
+<TOKEN id="token-24-17" pos="word" morph="none" start_char="3347" end_char="3349">one</TOKEN>
+<TOKEN id="token-24-18" pos="word" morph="none" start_char="3351" end_char="3352">of</TOKEN>
+<TOKEN id="token-24-19" pos="word" morph="none" start_char="3354" end_char="3357">them</TOKEN>
+<TOKEN id="token-24-20" pos="punct" morph="none" start_char="3358" end_char="3358">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="3361" end_char="3385">
+<ORIGINAL_TEXT>Story continues on page 2</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="3361" end_char="3365">Story</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="3367" end_char="3375">continues</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="3377" end_char="3378">on</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="3380" end_char="3383">page</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="3385" end_char="3385">2</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

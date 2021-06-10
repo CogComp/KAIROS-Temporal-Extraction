@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="eng">
+<DOC id="K0C047Z57" lang="eng" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="55" raw_text_md5="4f63ab12a3a9809e41beca9e88b9aa45">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="48">
+<ORIGINAL_TEXT>Utah Teen Arrested After Bringing Bomb to School</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="4">Utah</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="6" end_char="9">Teen</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="11" end_char="18">Arrested</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="20" end_char="24">After</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="26" end_char="33">Bringing</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="35" end_char="38">Bomb</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="40" end_char="41">to</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="43" end_char="48">School</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>
