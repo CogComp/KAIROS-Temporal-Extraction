@@ -138,9 +138,9 @@ class Graph:
 
 class CogCompTimeBackend:
 
-    def __init__(self):
+    def __init__(self, config_lines=None):
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-        self.predictor = Predictor()
+        self.predictor = Predictor(config_lines)
         self.srl_model = PretrainedModel(
             'https://s3-us-west-2.amazonaws.com/allennlp/models/srl-model-2018.05.25.tar.gz',
             'semantic-role-labeling'
@@ -267,6 +267,15 @@ class CogCompTimeBackend:
         return math.exp(s)
 
 
+    def get_simple_averaged_val(self, probabilities):
+        counter = 0.0
+        ret = 0.0
+        for p in probabilities:
+            ret += p * counter
+            counter += 1.0
+        return ret
+
+
     def get_averaged_val_simple_mean(self, probabilities):
         # in minutes
         values = {
@@ -311,7 +320,7 @@ class CogCompTimeBackend:
         to_process_duration = []
         for event_id_i in all_event_ids:
             event_i = event_map[event_id_i]
-            phrase = self.format_duration_phrase(event_i, srl_objs[event_i[0]])
+            phrase = self.format_duration_phrase_marker(event_i, srl_objs[event_i[0]])
             to_process_duration.append("event: {} story: {} \t nothing".format(phrase, story))
 
         results = self.predictor.predict(to_process_instances)
@@ -320,7 +329,8 @@ class CogCompTimeBackend:
 
         duration_map = {}
         for i, event_id_i in enumerate(all_event_ids):
-            duration_map[event_id_i] = self.get_averaged_val(results_duration[i])
+            # duration_map[event_id_i] = self.get_averaged_val(results_duration[i])
+            duration_map[event_id_i] = self.get_simple_averaged_val(results_duration[i])
 
         edge_map = {}
         distance_map = {}
@@ -377,6 +387,7 @@ class CogCompTimeBackend:
                 directed_edge_map[edge] = edge_map[edge] / 2.0
 
         sorted_edges = self.ilp_sort(directed_edge_map)
+        print(sorted_edges)
         single_verb_map = {}
         relation_map = {}
         for i in range(0, len(sorted_edges)):
@@ -385,7 +396,8 @@ class CogCompTimeBackend:
             duration = duration_map[sorted_edges[i]]
             single_verb_map[sorted_edges[i]] = [timex, duration]
             for j in range(i+1, len(sorted_edges)):
-                distance = self.get_averaged_val(distance_map[(sorted_edges[i], sorted_edges[j])])
+                # distance = self.get_averaged_val(distance_map[(sorted_edges[i], sorted_edges[j])])
+                distance = self.get_simple_averaged_val(distance_map[(sorted_edges[i], sorted_edges[j])])
                 relation_map[(sorted_edges[i], sorted_edges[j])] = ["before", distance]
                 relation_map[(sorted_edges[j], sorted_edges[i])] = ["after", distance]
         return single_verb_map, relation_map
@@ -454,6 +466,7 @@ class CogCompTimeBackend:
                 it += 1
                 event_i = event_map[event_id_i]
                 event_j = event_map[event_id_j]
+                # Anchor: rule parser results below, please see comments at L590 in lib_parser.py
                 timex_relation = self.alex_srl.compare_events(
                     (event_i[0], event_i[1]), (event_j[0], event_j[1])
                 )

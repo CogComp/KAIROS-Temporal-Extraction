@@ -587,8 +587,8 @@ class AllenSRL:
                 print(graph[x])
 
     '''
-    taks in two verb indexes and 
-    retursn the distance between the two, positive if the second is later than the first or None if there isn't a defined differenece
+    takes in two verb indexes and 
+    return the distance between the two, positive if the second is later than the first or None if there isn't a defined differenece
     '''
     def compare_events(self, verbinx1, verbinx2):
         graph = self.graph

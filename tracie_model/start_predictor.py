@@ -114,8 +114,9 @@ class RelationOnlyPredictor:
 
 class Predictor:
 
-    def __init__(self):
-        config_lines = [x.strip() for x in open("configs/model_paths.txt").readlines()]
+    def __init__(self, config_lines=None):
+        if config_lines is None:
+            config_lines = [x.strip() for x in open("configs/model_paths.txt").readlines()]
         config_map = {}
         for l in config_lines:
             config_map[l.split("\t")[0]] = l.split("\t")[1]
